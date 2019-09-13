@@ -1,5 +1,5 @@
-Pasos para ejecutar el proyecto:
-1- Abrir en consola el Server
-2- Ejecutar rmiregistry -J-classpath -J"./lib/StockRMI.jar"
-3- Abrir en otra consola el Server y ejecutar ant run
-4- Abrir en consola el Client y ejecutar ant run 
+Steps to run the project:
+1- Open the Server project in console
+2- Run rmiregistry -J-classpath -J"./lib/StockRMI.jar"
+3- Open again the Server project in another console and run the command "ant run".
+4- Open the Client project in console and run the command "ant run".
