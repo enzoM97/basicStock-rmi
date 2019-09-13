@@ -1,0 +1,4106 @@
+11-09-2019 20:27:27 INFO  Client:? - Probando cliente...
+11-09-2019 20:27:29 INFO  Client:? - Ok.
+11-09-2019 20:27:36 INFO  Client:? - Producto agregado!
+11-09-2019 20:36:29 INFO  Client:? - Probando cliente...
+11-09-2019 20:36:30 INFO  Client:? - Ok.
+11-09-2019 20:36:30 INFO  Client:? - Codigo: 
+11-09-2019 20:36:34 INFO  Client:? - Producto agregado!
+11-09-2019 20:36:34 INFO  Client:? - *************************************
+
+11-09-2019 20:36:34 INFO  Client:? - 	STOCK ACTUAL
+
+11-09-2019 20:36:34 INFO  Client:? - *************************************
+11-09-2019 20:36:34 INFO  Client:? - Producto: abc
+11-09-2019 20:36:34 INFO  Client:? - Cantidad: 0
+11-09-2019 20:40:19 INFO  Client:? - Probando cliente...
+11-09-2019 20:40:20 INFO  Client:? - Ok.
+11-09-2019 20:40:20 INFO  Client:? - Codigo: 
+11-09-2019 20:40:25 INFO  Client:? - Producto agregado!
+11-09-2019 20:40:25 INFO  Client:? - *************************************
+
+11-09-2019 20:40:25 INFO  Client:? - 	STOCK ACTUAL
+
+11-09-2019 20:40:25 INFO  Client:? - *************************************
+11-09-2019 20:40:25 INFO  Client:? - Producto: abc
+11-09-2019 20:40:25 INFO  Client:? - Cantidad: 0
+11-09-2019 20:42:19 INFO  Client:? - Probando cliente...
+11-09-2019 20:42:20 INFO  Client:? - Ok.
+11-09-2019 20:42:20 INFO  Client:? - Codigo: 
+11-09-2019 20:42:29 INFO  Client:? - Producto agregado!
+11-09-2019 20:42:29 INFO  Client:? - 
+*************************************
+
+11-09-2019 20:42:29 INFO  Client:? - 	STOCK ACTUAL
+
+11-09-2019 20:42:29 INFO  Client:? - Producto: ABC
+11-09-2019 20:42:29 INFO  Client:? - Cantidad: 0
+11-09-2019 20:42:29 INFO  Client:? - 
+*************************************
+11-09-2019 20:43:03 INFO  Client:? - Probando cliente...
+11-09-2019 20:43:04 INFO  Client:? - Ok.
+11-09-2019 20:43:04 INFO  Client:? - Codigo: 
+11-09-2019 20:43:09 INFO  Client:? - Producto agregado!
+11-09-2019 20:43:09 INFO  Client:? - 
+
+*************************************
+
+11-09-2019 20:43:09 INFO  Client:? - 	STOCK ACTUAL
+
+11-09-2019 20:43:09 INFO  Client:? - Producto: FFF
+11-09-2019 20:43:09 INFO  Client:? - Cantidad: 0
+11-09-2019 20:43:09 INFO  Client:? - 
+*************************************
+
+11-09-2019 20:43:38 INFO  Client:? - Probando cliente...
+11-09-2019 20:43:39 INFO  Client:? - Ok.
+11-09-2019 20:43:39 INFO  Client:? - Codigo: 
+11-09-2019 20:43:42 INFO  Client:? - Producto agregado!
+11-09-2019 20:43:42 INFO  Client:? - 
+
+*************************************
+
+11-09-2019 20:43:42 INFO  Client:? - 	STOCK ACTUAL
+
+11-09-2019 20:43:42 INFO  Client:? - Producto: RERA
+11-09-2019 20:43:42 INFO  Client:? - Cantidad: 0
+11-09-2019 20:43:42 INFO  Client:? - 
+
+*************************************
+
+12-09-2019 08:29:09 INFO  Client:? - Probando cliente...
+12-09-2019 08:32:46 INFO  Client:? - Probando cliente...
+12-09-2019 08:32:48 INFO  Client:? - Ok.
+12-09-2019 08:32:48 INFO  Client:? - Codigo: 
+12-09-2019 08:32:51 INFO  Client:? - 
+Error. Product couldn´t be added.
+12-09-2019 08:40:37 INFO  Client:? - Probando cliente...
+12-09-2019 08:40:38 INFO  Client:? - Ok.
+12-09-2019 08:40:38 INFO  Client:? - Codigo: 
+12-09-2019 08:40:40 INFO  Client:? - Producto agregado!
+12-09-2019 08:40:59 INFO  Client:? - Probando cliente...
+12-09-2019 08:41:00 INFO  Client:? - Ok.
+12-09-2019 08:41:00 INFO  Client:? - Codigo: 
+12-09-2019 08:41:03 INFO  Client:? - Producto agregado!
+12-09-2019 08:41:12 INFO  Client:? - Probando cliente...
+12-09-2019 08:41:13 INFO  Client:? - Ok.
+12-09-2019 08:41:13 INFO  Client:? - Codigo: 
+12-09-2019 08:41:15 INFO  Client:? - Producto agregado!
+12-09-2019 08:54:19 INFO  Client:? - Probando cliente...
+12-09-2019 08:54:20 INFO  Client:? - Ok.
+12-09-2019 08:54:20 INFO  Client:? - Codigo: 
+12-09-2019 08:54:24 INFO  Client:? - Producto agregado!
+12-09-2019 08:54:24 INFO  Client:? - 
+
+*************************************
+
+12-09-2019 08:54:24 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 08:54:24 INFO  Client:? - Producto: ASDF
+12-09-2019 08:54:24 INFO  Client:? - Cantidad: 1
+12-09-2019 08:54:24 INFO  Client:? - 
+
+*************************************
+
+12-09-2019 08:54:34 INFO  Client:? - Probando cliente...
+12-09-2019 08:54:35 INFO  Client:? - Ok.
+12-09-2019 08:54:35 INFO  Client:? - Codigo: 
+12-09-2019 08:54:37 INFO  Client:? - Producto agregado!
+12-09-2019 08:54:37 INFO  Client:? - 
+
+*************************************
+
+12-09-2019 08:54:37 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 08:54:37 INFO  Client:? - Producto: ASDF
+12-09-2019 08:54:37 INFO  Client:? - Cantidad: 2
+12-09-2019 08:54:37 INFO  Client:? - 
+
+*************************************
+
+12-09-2019 08:54:48 INFO  Client:? - Probando cliente...
+12-09-2019 08:54:49 INFO  Client:? - Ok.
+12-09-2019 08:54:49 INFO  Client:? - Codigo: 
+12-09-2019 08:54:53 INFO  Client:? - Producto agregado!
+12-09-2019 08:54:53 INFO  Client:? - 
+
+*************************************
+
+12-09-2019 08:54:53 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 08:54:53 INFO  Client:? - Producto: ASDF
+12-09-2019 08:54:53 INFO  Client:? - Cantidad: 3
+12-09-2019 08:54:53 INFO  Client:? - 
+
+*************************************
+
+12-09-2019 08:57:06 INFO  Client:? - Probando cliente...
+12-09-2019 08:57:07 INFO  Client:? - Ok.
+12-09-2019 08:57:07 INFO  Client:? - Codigo: 
+12-09-2019 08:57:11 INFO  Client:? - Producto agregado!
+12-09-2019 08:57:11 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 08:57:11 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 08:57:11 INFO  Client:? - Codigo-Producto: ASDF
+12-09-2019 08:57:11 INFO  Client:? - Cantidad: 1
+12-09-2019 08:57:11 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 08:57:21 INFO  Client:? - Probando cliente...
+12-09-2019 08:57:23 INFO  Client:? - Ok.
+12-09-2019 08:57:23 INFO  Client:? - Codigo: 
+12-09-2019 08:57:24 INFO  Client:? - Producto agregado!
+12-09-2019 08:57:24 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 08:57:24 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 08:57:24 INFO  Client:? - Codigo-Producto: ASDF
+12-09-2019 08:57:24 INFO  Client:? - Cantidad: 2
+12-09-2019 08:57:24 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 08:57:35 INFO  Client:? - Probando cliente...
+12-09-2019 08:57:36 INFO  Client:? - Ok.
+12-09-2019 08:57:36 INFO  Client:? - Codigo: 
+12-09-2019 08:57:42 INFO  Client:? - Producto agregado!
+12-09-2019 08:57:42 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 08:57:42 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 08:57:42 INFO  Client:? - Codigo-Producto: QWER
+12-09-2019 08:57:42 INFO  Client:? - Cantidad: 1
+12-09-2019 08:57:42 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 08:57:51 INFO  Client:? - Probando cliente...
+12-09-2019 08:57:52 INFO  Client:? - Ok.
+12-09-2019 08:57:52 INFO  Client:? - Codigo: 
+12-09-2019 08:57:54 INFO  Client:? - Producto agregado!
+12-09-2019 08:57:54 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 08:57:54 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 08:57:54 INFO  Client:? - Codigo-Producto: QWER
+12-09-2019 08:57:54 INFO  Client:? - Cantidad: 2
+12-09-2019 08:57:54 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 08:58:01 INFO  Client:? - Probando cliente...
+12-09-2019 08:58:02 INFO  Client:? - Ok.
+12-09-2019 08:58:02 INFO  Client:? - Codigo: 
+12-09-2019 08:58:04 INFO  Client:? - Producto agregado!
+12-09-2019 08:58:04 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 08:58:04 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 08:58:04 INFO  Client:? - Codigo-Producto: ASDF
+12-09-2019 08:58:04 INFO  Client:? - Cantidad: 3
+12-09-2019 08:58:04 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 08:58:13 INFO  Client:? - Probando cliente...
+12-09-2019 08:58:14 INFO  Client:? - Ok.
+12-09-2019 08:58:14 INFO  Client:? - Codigo: 
+12-09-2019 08:58:17 INFO  Client:? - Producto agregado!
+12-09-2019 08:58:17 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 08:58:17 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 08:58:17 INFO  Client:? - Codigo-Producto: QWER
+12-09-2019 08:58:17 INFO  Client:? - Cantidad: 3
+12-09-2019 08:58:17 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 09:40:18 INFO  Client:? - Probando cliente...
+12-09-2019 09:40:19 INFO  Client:? - Ok.
+12-09-2019 09:40:19 INFO  Client:? - Codigo: 
+12-09-2019 09:40:25 INFO  Client:? - Producto agregado!
+12-09-2019 09:40:25 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 09:40:25 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 09:40:25 INFO  Client:? - Codigo-Producto: ASDF
+12-09-2019 09:40:25 INFO  Client:? - Cantidad: 1
+12-09-2019 09:40:25 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 09:40:25 INFO  Client:? - 
+Descontar stock
+12-09-2019 09:40:25 INFO  Client:? - Codigo: 
+12-09-2019 09:40:29 INFO  Client:? - Producto descontado del stock con exito.
+12-09-2019 09:40:29 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 09:40:29 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 09:40:29 INFO  Client:? - Codigo-Producto: ASDF
+12-09-2019 09:40:29 INFO  Client:? - Cantidad: 0
+12-09-2019 09:40:29 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 09:57:20 INFO  Client:? - Conectando con servidor remoto...
+12-09-2019 09:57:21 INFO  Client:? - Ok.
+12-09-2019 09:57:21 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 09:57:21 INFO  Client:? - 	GESTOR BASICO DE STOCK
+12-09-2019 09:57:21 INFO  Client:? - 
+
+
+12-09-2019 09:57:22 INFO  Client:? - 1. Agregar producto.
+12-09-2019 09:57:22 INFO  Client:? - 2. Consultar stock.
+12-09-2019 09:57:22 INFO  Client:? - 3. Descontar stock.
+12-09-2019 09:57:22 INFO  Client:? - 4. Salir
+12-09-2019 09:57:22 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 09:58:02 INFO  Client:? - Conectando con servidor remoto...
+12-09-2019 09:58:04 INFO  Client:? - Ok.
+12-09-2019 09:58:04 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 09:58:04 INFO  Client:? - 	GESTOR BASICO DE STOCK
+12-09-2019 09:58:04 INFO  Client:? - 
+
+
+12-09-2019 09:58:04 INFO  Client:? - 1. Agregar producto.
+12-09-2019 09:58:04 INFO  Client:? - 2. Consultar stock.
+12-09-2019 09:58:04 INFO  Client:? - 3. Descontar stock.
+12-09-2019 09:58:04 INFO  Client:? - 4. Salir
+12-09-2019 09:58:04 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 09:58:04 INFO  Client:? - Ingrese una opcion:
+12-09-2019 09:58:08 INFO  Client:? - Opcion no valida. Vuelva a intentarlo.
+12-09-2019 09:58:08 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 09:58:08 INFO  Client:? - 	GESTOR BASICO DE STOCK
+12-09-2019 09:58:08 INFO  Client:? - 
+
+
+12-09-2019 09:58:08 INFO  Client:? - 1. Agregar producto.
+12-09-2019 09:58:08 INFO  Client:? - 2. Consultar stock.
+12-09-2019 09:58:08 INFO  Client:? - 3. Descontar stock.
+12-09-2019 09:58:08 INFO  Client:? - 4. Salir
+12-09-2019 09:58:08 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 09:58:08 INFO  Client:? - Ingrese una opcion:
+12-09-2019 09:58:13 INFO  Client:? - Opcion no valida. Vuelva a intentarlo.
+12-09-2019 09:58:13 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 09:58:13 INFO  Client:? - 	GESTOR BASICO DE STOCK
+12-09-2019 09:58:13 INFO  Client:? - 
+
+
+12-09-2019 09:58:13 INFO  Client:? - 1. Agregar producto.
+12-09-2019 09:58:13 INFO  Client:? - 2. Consultar stock.
+12-09-2019 09:58:13 INFO  Client:? - 3. Descontar stock.
+12-09-2019 09:58:13 INFO  Client:? - 4. Salir
+12-09-2019 09:58:13 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 09:58:13 INFO  Client:? - Ingrese una opcion:
+12-09-2019 09:58:18 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 09:58:18 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 09:58:18 INFO  Client:? - Codigo-Producto: 
+12-09-2019 09:58:18 INFO  Client:? - Cantidad: 0
+12-09-2019 09:58:18 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 09:58:18 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 09:58:18 INFO  Client:? - 	GESTOR BASICO DE STOCK
+12-09-2019 09:58:18 INFO  Client:? - 
+
+
+12-09-2019 09:58:18 INFO  Client:? - 1. Agregar producto.
+12-09-2019 09:58:18 INFO  Client:? - 2. Consultar stock.
+12-09-2019 09:58:18 INFO  Client:? - 3. Descontar stock.
+12-09-2019 09:58:18 INFO  Client:? - 4. Salir
+12-09-2019 09:58:18 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 09:58:18 INFO  Client:? - Ingrese una opcion:
+12-09-2019 09:58:33 INFO  Client:? - Opcion no valida. Vuelva a intentarlo.
+12-09-2019 09:59:16 INFO  Client:? - Conectando con servidor remoto...
+12-09-2019 09:59:17 INFO  Client:? - Ok.
+12-09-2019 09:59:17 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 09:59:17 INFO  Client:? - 	GESTOR BASICO DE STOCK
+12-09-2019 09:59:17 INFO  Client:? - 
+
+
+12-09-2019 09:59:17 INFO  Client:? - 1. Agregar producto.
+12-09-2019 09:59:17 INFO  Client:? - 2. Consultar stock.
+12-09-2019 09:59:17 INFO  Client:? - 3. Descontar stock.
+12-09-2019 09:59:17 INFO  Client:? - 4. Salir
+12-09-2019 09:59:17 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 09:59:17 INFO  Client:? - Ingrese una opcion:
+12-09-2019 09:59:21 INFO  Client:? - Codigo producto:
+12-09-2019 09:59:21 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 09:59:21 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 09:59:21 INFO  Client:? - Codigo-Producto: 
+12-09-2019 09:59:21 INFO  Client:? - Cantidad: 0
+12-09-2019 09:59:21 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 09:59:21 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 09:59:21 INFO  Client:? - 	GESTOR BASICO DE STOCK
+12-09-2019 09:59:21 INFO  Client:? - 
+
+
+12-09-2019 09:59:21 INFO  Client:? - 1. Agregar producto.
+12-09-2019 09:59:21 INFO  Client:? - 2. Consultar stock.
+12-09-2019 09:59:21 INFO  Client:? - 3. Descontar stock.
+12-09-2019 09:59:21 INFO  Client:? - 4. Salir
+12-09-2019 09:59:21 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 09:59:21 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:00:46 INFO  Client:? - Conectando con servidor remoto...
+12-09-2019 10:00:47 INFO  Client:? - Ok.
+12-09-2019 10:00:47 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:00:47 INFO  Client:? - 	GESTOR BASICO DE STOCK
+12-09-2019 10:00:47 INFO  Client:? - 
+
+
+12-09-2019 10:00:47 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:00:47 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:00:47 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:00:47 INFO  Client:? - 4. Salir
+12-09-2019 10:00:47 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:00:47 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:00:57 INFO  Client:? - Opcion no valida. Vuelva a intentarlo.
+12-09-2019 10:01:41 INFO  Client:? - Conectando con servidor remoto...
+12-09-2019 10:01:42 INFO  Client:? - Ok.
+12-09-2019 10:01:42 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:01:42 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:01:42 INFO  Client:? - 
+
+
+12-09-2019 10:01:42 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:01:43 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:01:43 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:01:43 INFO  Client:? - 4. Salir
+12-09-2019 10:01:43 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:01:43 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:01:46 INFO  Client:? - Codigo producto:
+12-09-2019 10:01:46 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:01:46 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 10:01:46 INFO  Client:? - Codigo-Producto: 
+12-09-2019 10:01:46 INFO  Client:? - Cantidad: 0
+12-09-2019 10:01:46 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 10:01:46 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:01:46 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:01:46 INFO  Client:? - 
+
+
+12-09-2019 10:01:46 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:01:46 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:01:46 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:01:46 INFO  Client:? - 4. Salir
+12-09-2019 10:01:46 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:01:46 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:01:57 INFO  Client:? - Codigo producto:
+12-09-2019 10:01:57 INFO  Client:? - Producto agregado con exito.
+12-09-2019 10:01:57 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:01:57 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:01:57 INFO  Client:? - 
+
+
+12-09-2019 10:01:57 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:01:57 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:01:57 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:01:57 INFO  Client:? - 4. Salir
+12-09-2019 10:01:57 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:01:57 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:02:03 INFO  Client:? - Codigo producto:
+12-09-2019 10:02:03 INFO  Client:? - Producto agregado con exito.
+12-09-2019 10:02:03 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:02:03 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:02:03 INFO  Client:? - 
+
+
+12-09-2019 10:02:03 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:02:03 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:02:03 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:02:03 INFO  Client:? - 4. Salir
+12-09-2019 10:02:03 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:02:03 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:02:05 INFO  Client:? - Codigo producto:
+12-09-2019 10:02:05 INFO  Client:? - Producto descontado del stock con exito.
+12-09-2019 10:02:05 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:02:05 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:02:06 INFO  Client:? - 
+
+
+12-09-2019 10:02:06 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:02:06 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:02:06 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:02:06 INFO  Client:? - 4. Salir
+12-09-2019 10:02:06 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:02:06 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:02:07 INFO  Client:? - Codigo producto:
+12-09-2019 10:02:07 INFO  Client:? - Producto agregado con exito.
+12-09-2019 10:02:07 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:02:07 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:02:07 INFO  Client:? - 
+
+
+12-09-2019 10:02:07 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:02:07 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:02:07 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:02:07 INFO  Client:? - 4. Salir
+12-09-2019 10:02:07 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:02:07 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:07:12 INFO  Client:? - Conectando con servidor remoto...
+12-09-2019 10:07:14 INFO  Client:? - Ok.
+12-09-2019 10:07:14 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:07:14 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:07:14 INFO  Client:? - 
+
+
+12-09-2019 10:07:14 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:07:14 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:07:14 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:07:14 INFO  Client:? - 4. Salir
+12-09-2019 10:07:14 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:07:14 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:07:23 INFO  Client:? - Codigo Producto
+12-09-2019 10:07:23 INFO  Client:? - Producto agregado con exito.
+12-09-2019 10:07:23 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:07:23 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:07:23 INFO  Client:? - 
+
+
+12-09-2019 10:07:23 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:07:23 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:07:23 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:07:23 INFO  Client:? - 4. Salir
+12-09-2019 10:07:23 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:07:23 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:07:41 INFO  Client:? - Codigo Producto
+12-09-2019 10:07:41 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:07:41 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 10:07:41 INFO  Client:? - Codigo-Producto: 
+12-09-2019 10:07:41 INFO  Client:? - Cantidad: 1
+12-09-2019 10:07:41 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 10:07:41 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:07:41 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:07:41 INFO  Client:? - 
+
+
+12-09-2019 10:07:41 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:07:41 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:07:41 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:07:41 INFO  Client:? - 4. Salir
+12-09-2019 10:07:41 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:07:41 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:07:48 INFO  Client:? - Codigo Producto
+12-09-2019 10:07:48 INFO  Client:? - Producto agregado con exito.
+12-09-2019 10:07:48 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:07:48 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:07:48 INFO  Client:? - 
+
+
+12-09-2019 10:07:48 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:07:48 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:07:48 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:07:48 INFO  Client:? - 4. Salir
+12-09-2019 10:07:48 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:07:48 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:07:49 INFO  Client:? - Codigo Producto
+12-09-2019 10:07:49 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:07:49 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 10:07:49 INFO  Client:? - Codigo-Producto: 
+12-09-2019 10:07:49 INFO  Client:? - Cantidad: 2
+12-09-2019 10:07:49 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 10:07:49 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:07:49 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:07:49 INFO  Client:? - 
+
+
+12-09-2019 10:07:49 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:07:49 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:07:49 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:07:49 INFO  Client:? - 4. Salir
+12-09-2019 10:07:49 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:07:49 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:07:52 INFO  Client:? - Codigo Producto
+12-09-2019 10:07:52 INFO  Client:? - Producto agregado con exito.
+12-09-2019 10:07:52 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:07:52 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:07:52 INFO  Client:? - 
+
+
+12-09-2019 10:07:52 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:07:52 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:07:52 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:07:52 INFO  Client:? - 4. Salir
+12-09-2019 10:07:52 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:07:52 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:07:53 INFO  Client:? - Codigo Producto
+12-09-2019 10:07:53 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:07:53 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 10:07:53 INFO  Client:? - Codigo-Producto: 
+12-09-2019 10:07:53 INFO  Client:? - Cantidad: 3
+12-09-2019 10:07:53 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 10:07:53 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:07:53 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:07:53 INFO  Client:? - 
+
+
+12-09-2019 10:07:53 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:07:53 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:07:53 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:07:53 INFO  Client:? - 4. Salir
+12-09-2019 10:07:53 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:07:53 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:07:56 INFO  Client:? - Codigo Producto
+12-09-2019 10:07:56 INFO  Client:? - Producto descontado del stock con exito.
+12-09-2019 10:07:56 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:07:56 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:07:56 INFO  Client:? - 
+
+
+12-09-2019 10:07:56 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:07:56 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:07:56 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:07:56 INFO  Client:? - 4. Salir
+12-09-2019 10:07:56 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:07:56 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:07:58 INFO  Client:? - Codigo Producto
+12-09-2019 10:07:58 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:07:58 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 10:07:58 INFO  Client:? - Codigo-Producto: 
+12-09-2019 10:07:58 INFO  Client:? - Cantidad: 2
+12-09-2019 10:07:58 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 10:07:58 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:07:58 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:07:58 INFO  Client:? - 
+
+
+12-09-2019 10:07:58 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:07:58 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:07:58 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:07:58 INFO  Client:? - 4. Salir
+12-09-2019 10:07:58 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:07:58 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:08:00 INFO  Client:? - Codigo Producto
+12-09-2019 10:08:00 INFO  Client:? - Producto descontado del stock con exito.
+12-09-2019 10:08:00 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:08:00 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:08:00 INFO  Client:? - 
+
+
+12-09-2019 10:08:00 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:08:00 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:08:00 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:08:00 INFO  Client:? - 4. Salir
+12-09-2019 10:08:00 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:08:00 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:08:00 INFO  Client:? - Codigo Producto
+12-09-2019 10:08:00 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:08:00 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 10:08:00 INFO  Client:? - Codigo-Producto: 
+12-09-2019 10:08:00 INFO  Client:? - Cantidad: 1
+12-09-2019 10:08:00 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 10:08:00 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:08:00 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:08:00 INFO  Client:? - 
+
+
+12-09-2019 10:08:00 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:08:00 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:08:00 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:08:00 INFO  Client:? - 4. Salir
+12-09-2019 10:08:00 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:08:00 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:08:01 INFO  Client:? - Codigo Producto
+12-09-2019 10:08:01 INFO  Client:? - Producto descontado del stock con exito.
+12-09-2019 10:08:01 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:08:01 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:08:01 INFO  Client:? - 
+
+
+12-09-2019 10:08:01 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:08:01 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:08:01 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:08:01 INFO  Client:? - 4. Salir
+12-09-2019 10:08:01 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:08:01 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:08:02 INFO  Client:? - Codigo Producto
+12-09-2019 10:08:02 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:08:02 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 10:08:02 INFO  Client:? - Codigo-Producto: 
+12-09-2019 10:08:02 INFO  Client:? - Cantidad: 0
+12-09-2019 10:08:02 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 10:08:02 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:08:02 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:08:02 INFO  Client:? - 
+
+
+12-09-2019 10:08:02 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:08:02 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:08:02 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:08:02 INFO  Client:? - 4. Salir
+12-09-2019 10:08:02 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:08:02 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:08:04 INFO  Client:? - Codigo Producto
+12-09-2019 10:08:04 INFO  Client:? - No se pudo descontar el stock.
+12-09-2019 10:08:04 INFO  Client:? - El producto no existe o posee stock 0.
+12-09-2019 10:08:04 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:08:04 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:08:04 INFO  Client:? - 
+
+
+12-09-2019 10:08:04 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:08:04 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:08:04 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:08:04 INFO  Client:? - 4. Salir
+12-09-2019 10:08:04 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:08:04 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:08:11 INFO  Client:? - Codigo Producto
+12-09-2019 10:08:11 INFO  Client:? - No se pudo descontar el stock.
+12-09-2019 10:08:11 INFO  Client:? - El producto no existe o posee stock 0.
+12-09-2019 10:08:11 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:08:11 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:08:11 INFO  Client:? - 
+
+
+12-09-2019 10:08:11 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:08:11 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:08:11 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:08:11 INFO  Client:? - 4. Salir
+12-09-2019 10:08:11 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:08:11 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:08:13 INFO  Client:? - Opcion no valida. Vuelva a intentarlo.
+12-09-2019 10:11:26 INFO  Client:? - Conectando con servidor remoto...
+12-09-2019 10:11:27 INFO  Client:? - Ok.
+12-09-2019 10:11:27 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:11:27 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:11:27 INFO  Client:? - 
+
+
+12-09-2019 10:11:27 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:11:27 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:11:27 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:11:27 INFO  Client:? - 4. Salir
+12-09-2019 10:11:27 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:11:27 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:11:29 INFO  Client:? - Codigo Producto
+12-09-2019 10:11:29 INFO  Client:? - Producto agregado con exito.
+12-09-2019 10:11:29 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:11:29 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:11:29 INFO  Client:? - 
+
+
+12-09-2019 10:11:29 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:11:29 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:11:29 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:11:29 INFO  Client:? - 4. Salir
+12-09-2019 10:11:29 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:11:29 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:13:32 INFO  Client:? - Conectando con servidor remoto...
+12-09-2019 10:13:33 INFO  Client:? - Ok.
+12-09-2019 10:13:33 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:13:33 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:13:33 INFO  Client:? - 
+
+
+12-09-2019 10:13:34 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:13:34 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:13:34 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:13:34 INFO  Client:? - 4. Salir
+12-09-2019 10:13:34 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:13:34 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:13:35 INFO  Client:? - Codigo Producto
+12-09-2019 10:13:41 INFO  Client:? - Producto agregado con exito.
+12-09-2019 10:13:41 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:13:41 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:13:41 INFO  Client:? - 
+
+
+12-09-2019 10:13:41 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:13:41 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:13:41 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:13:41 INFO  Client:? - 4. Salir
+12-09-2019 10:13:41 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:13:41 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:13:44 INFO  Client:? - Codigo Producto
+12-09-2019 10:13:46 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:13:46 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 10:13:46 INFO  Client:? - Codigo-Producto: ABC
+12-09-2019 10:13:46 INFO  Client:? - Cantidad: 1
+12-09-2019 10:13:46 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 10:13:46 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:13:46 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:13:46 INFO  Client:? - 
+
+
+12-09-2019 10:13:46 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:13:46 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:13:46 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:13:46 INFO  Client:? - 4. Salir
+12-09-2019 10:13:46 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:13:46 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:13:58 INFO  Client:? - Codigo Producto
+12-09-2019 10:14:00 INFO  Client:? - Producto agregado con exito.
+12-09-2019 10:14:00 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:14:00 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:14:00 INFO  Client:? - 
+
+
+12-09-2019 10:14:01 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:14:01 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:14:01 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:14:01 INFO  Client:? - 4. Salir
+12-09-2019 10:14:01 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:14:01 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:14:02 INFO  Client:? - Codigo Producto
+12-09-2019 10:14:08 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:14:08 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 10:14:08 INFO  Client:? - Codigo-Producto: ABC
+12-09-2019 10:14:08 INFO  Client:? - Cantidad: 2
+12-09-2019 10:14:08 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 10:14:08 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:14:08 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:14:08 INFO  Client:? - 
+
+
+12-09-2019 10:14:08 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:14:08 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:14:08 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:14:08 INFO  Client:? - 4. Salir
+12-09-2019 10:14:08 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:14:08 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:14:13 INFO  Client:? - Codigo Producto
+12-09-2019 10:14:16 INFO  Client:? - Producto agregado con exito.
+12-09-2019 10:14:16 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:14:16 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:14:16 INFO  Client:? - 
+
+
+12-09-2019 10:14:16 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:14:16 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:14:16 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:14:16 INFO  Client:? - 4. Salir
+12-09-2019 10:14:16 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:14:16 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:14:18 INFO  Client:? - Codigo Producto
+12-09-2019 10:14:20 INFO  Client:? - Producto agregado con exito.
+12-09-2019 10:14:20 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:14:20 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:14:20 INFO  Client:? - 
+
+
+12-09-2019 10:14:20 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:14:20 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:14:20 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:14:20 INFO  Client:? - 4. Salir
+12-09-2019 10:14:20 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:14:20 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:14:21 INFO  Client:? - Codigo Producto
+12-09-2019 10:14:23 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:14:23 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 10:14:23 INFO  Client:? - Codigo-Producto: ASDF
+12-09-2019 10:14:23 INFO  Client:? - Cantidad: 3
+12-09-2019 10:14:23 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 10:14:23 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:14:23 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:14:23 INFO  Client:? - 
+
+
+12-09-2019 10:14:23 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:14:23 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:14:23 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:14:23 INFO  Client:? - 4. Salir
+12-09-2019 10:14:23 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:14:23 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:14:33 INFO  Client:? - Codigo Producto
+12-09-2019 10:14:35 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:14:35 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 10:14:35 INFO  Client:? - Codigo-Producto: ABC
+12-09-2019 10:14:35 INFO  Client:? - Cantidad: 2
+12-09-2019 10:14:35 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 10:14:35 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:14:35 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:14:35 INFO  Client:? - 
+
+
+12-09-2019 10:14:35 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:14:35 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:14:35 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:14:35 INFO  Client:? - 4. Salir
+12-09-2019 10:14:35 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:14:35 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:14:42 INFO  Client:? - Codigo Producto
+12-09-2019 10:14:43 INFO  Client:? - Producto agregado con exito.
+12-09-2019 10:14:43 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:14:43 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:14:43 INFO  Client:? - 
+
+
+12-09-2019 10:14:43 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:14:43 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:14:43 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:14:43 INFO  Client:? - 4. Salir
+12-09-2019 10:14:43 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:14:43 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:14:45 INFO  Client:? - Codigo Producto
+12-09-2019 10:14:46 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:14:46 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 10:14:46 INFO  Client:? - Codigo-Producto: ASDF
+12-09-2019 10:14:46 INFO  Client:? - Cantidad: 3
+12-09-2019 10:14:46 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 10:14:46 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:14:46 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:14:46 INFO  Client:? - 
+
+
+12-09-2019 10:14:46 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:14:46 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:14:46 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:14:46 INFO  Client:? - 4. Salir
+12-09-2019 10:14:46 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:14:46 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:14:50 INFO  Client:? - Codigo Producto
+12-09-2019 10:14:52 INFO  Client:? - Producto agregado con exito.
+12-09-2019 10:14:52 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:14:52 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:14:52 INFO  Client:? - 
+
+
+12-09-2019 10:14:52 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:14:52 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:14:52 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:14:52 INFO  Client:? - 4. Salir
+12-09-2019 10:14:52 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:14:52 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:14:54 INFO  Client:? - Codigo Producto
+12-09-2019 10:14:55 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:14:55 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 10:14:55 INFO  Client:? - Codigo-Producto: ASDF
+12-09-2019 10:14:55 INFO  Client:? - Cantidad: 4
+12-09-2019 10:14:55 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 10:14:55 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:14:55 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:14:55 INFO  Client:? - 
+
+
+12-09-2019 10:14:55 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:14:55 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:14:55 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:14:55 INFO  Client:? - 4. Salir
+12-09-2019 10:14:55 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:14:55 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:14:59 INFO  Client:? - Codigo Producto
+12-09-2019 10:15:01 INFO  Client:? - Producto agregado con exito.
+12-09-2019 10:15:01 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:15:01 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:15:01 INFO  Client:? - 
+
+
+12-09-2019 10:15:01 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:15:01 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:15:01 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:15:01 INFO  Client:? - 4. Salir
+12-09-2019 10:15:01 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:15:01 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:15:03 INFO  Client:? - Codigo Producto
+12-09-2019 10:15:04 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:15:04 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 10:15:04 INFO  Client:? - Codigo-Producto: ABC
+12-09-2019 10:15:04 INFO  Client:? - Cantidad: 5
+12-09-2019 10:15:04 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 10:15:04 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:15:04 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:15:04 INFO  Client:? - 
+
+
+12-09-2019 10:15:04 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:15:04 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:15:04 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:15:04 INFO  Client:? - 4. Salir
+12-09-2019 10:15:04 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:15:04 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:15:20 INFO  Client:? - Opcion no valida. Vuelva a intentarlo.
+12-09-2019 10:23:44 INFO  Client:? - Conectando con servidor remoto...
+12-09-2019 10:23:45 INFO  Client:? - Ok.
+12-09-2019 10:23:45 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:23:45 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:23:45 INFO  Client:? - 
+
+
+12-09-2019 10:23:45 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:23:45 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:23:45 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:23:45 INFO  Client:? - 4. Salir
+12-09-2019 10:23:45 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:23:45 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:23:48 INFO  Client:? - Codigo Producto
+12-09-2019 10:23:49 INFO  Client:? - Producto agregado con exito.
+12-09-2019 10:23:49 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:23:49 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:23:49 INFO  Client:? - 
+
+
+12-09-2019 10:23:49 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:23:49 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:23:49 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:23:49 INFO  Client:? - 4. Salir
+12-09-2019 10:23:49 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:23:49 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:23:54 INFO  Client:? - Codigo Producto
+12-09-2019 10:23:57 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:23:57 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 10:23:57 INFO  Client:? - Codigo-Producto: ABC
+12-09-2019 10:23:57 INFO  Client:? - Cantidad: 1
+12-09-2019 10:23:57 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 10:23:57 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:23:57 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:23:57 INFO  Client:? - 
+
+
+12-09-2019 10:23:57 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:23:57 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:23:57 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:23:57 INFO  Client:? - 4. Salir
+12-09-2019 10:23:57 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:23:57 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:23:59 INFO  Client:? - Codigo Producto
+12-09-2019 10:24:01 INFO  Client:? - Producto agregado con exito.
+12-09-2019 10:24:01 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:24:01 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:24:01 INFO  Client:? - 
+
+
+12-09-2019 10:24:01 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:24:01 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:24:01 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:24:01 INFO  Client:? - 4. Salir
+12-09-2019 10:24:01 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:24:01 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:24:03 INFO  Client:? - Codigo Producto
+12-09-2019 10:24:04 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:24:04 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 10:24:04 INFO  Client:? - Codigo-Producto: ABC
+12-09-2019 10:24:04 INFO  Client:? - Cantidad: 2
+12-09-2019 10:24:04 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 10:24:04 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:24:04 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:24:04 INFO  Client:? - 
+
+
+12-09-2019 10:24:04 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:24:04 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:24:04 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:24:04 INFO  Client:? - 4. Salir
+12-09-2019 10:24:04 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:24:04 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:24:06 INFO  Client:? - Codigo Producto
+12-09-2019 10:24:07 INFO  Client:? - Producto agregado con exito.
+12-09-2019 10:24:07 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:24:07 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:24:07 INFO  Client:? - 
+
+
+12-09-2019 10:24:07 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:24:07 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:24:07 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:24:07 INFO  Client:? - 4. Salir
+12-09-2019 10:24:07 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:24:07 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:24:09 INFO  Client:? - Codigo Producto
+12-09-2019 10:24:10 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:24:10 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 10:24:10 INFO  Client:? - Codigo-Producto: ABC
+12-09-2019 10:24:10 INFO  Client:? - Cantidad: 3
+12-09-2019 10:24:10 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 10:24:10 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:24:10 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:24:10 INFO  Client:? - 
+
+
+12-09-2019 10:24:10 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:24:10 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:24:10 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:24:10 INFO  Client:? - 4. Salir
+12-09-2019 10:24:10 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:24:10 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:24:12 INFO  Client:? - Codigo Producto
+12-09-2019 10:24:14 INFO  Client:? - Producto agregado con exito.
+12-09-2019 10:24:14 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:24:14 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:24:14 INFO  Client:? - 
+
+
+12-09-2019 10:24:14 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:24:14 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:24:14 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:24:14 INFO  Client:? - 4. Salir
+12-09-2019 10:24:14 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:24:14 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:24:17 INFO  Client:? - Codigo Producto
+12-09-2019 10:24:19 INFO  Client:? - Producto agregado con exito.
+12-09-2019 10:24:19 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:24:19 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:24:19 INFO  Client:? - 
+
+
+12-09-2019 10:24:19 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:24:19 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:24:19 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:24:19 INFO  Client:? - 4. Salir
+12-09-2019 10:24:19 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:24:19 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:24:20 INFO  Client:? - Codigo Producto
+12-09-2019 10:24:22 INFO  Client:? - Producto agregado con exito.
+12-09-2019 10:24:22 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:24:22 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:24:22 INFO  Client:? - 
+
+
+12-09-2019 10:24:22 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:24:22 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:24:22 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:24:22 INFO  Client:? - 4. Salir
+12-09-2019 10:24:22 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:24:22 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:24:24 INFO  Client:? - Codigo Producto
+12-09-2019 10:24:25 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:24:25 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 10:24:25 INFO  Client:? - Codigo-Producto: ABC
+12-09-2019 10:24:25 INFO  Client:? - Cantidad: 3
+12-09-2019 10:24:25 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 10:24:25 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:24:25 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:24:25 INFO  Client:? - 
+
+
+12-09-2019 10:24:25 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:24:25 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:24:25 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:24:25 INFO  Client:? - 4. Salir
+12-09-2019 10:24:25 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:24:25 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:24:27 INFO  Client:? - Codigo Producto
+12-09-2019 10:24:28 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:24:28 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 10:24:28 INFO  Client:? - Codigo-Producto: ASDF
+12-09-2019 10:24:28 INFO  Client:? - Cantidad: 3
+12-09-2019 10:24:28 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 10:24:28 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:24:28 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:24:28 INFO  Client:? - 
+
+
+12-09-2019 10:24:28 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:24:28 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:24:28 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:24:28 INFO  Client:? - 4. Salir
+12-09-2019 10:24:28 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:24:28 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:24:33 INFO  Client:? - Codigo Producto
+12-09-2019 10:24:34 INFO  Client:? - Producto agregado con exito.
+12-09-2019 10:24:34 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:24:34 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:24:34 INFO  Client:? - 
+
+
+12-09-2019 10:24:34 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:24:34 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:24:34 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:24:34 INFO  Client:? - 4. Salir
+12-09-2019 10:24:34 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:24:34 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:24:35 INFO  Client:? - Codigo Producto
+12-09-2019 10:24:39 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:24:39 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 10:24:39 INFO  Client:? - Codigo-Producto: ASDF
+12-09-2019 10:24:39 INFO  Client:? - Cantidad: 3
+12-09-2019 10:24:39 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 10:24:39 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:24:39 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:24:39 INFO  Client:? - 
+
+
+12-09-2019 10:24:39 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:24:39 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:24:39 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:24:39 INFO  Client:? - 4. Salir
+12-09-2019 10:24:39 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:24:39 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:24:43 INFO  Client:? - Codigo Producto
+12-09-2019 10:24:44 INFO  Client:? - Producto agregado con exito.
+12-09-2019 10:24:44 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:24:44 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:24:44 INFO  Client:? - 
+
+
+12-09-2019 10:24:44 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:24:44 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:24:44 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:24:44 INFO  Client:? - 4. Salir
+12-09-2019 10:24:44 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:24:44 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:24:52 INFO  Client:? - Codigo Producto
+12-09-2019 10:24:53 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:24:53 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 10:24:53 INFO  Client:? - Codigo-Producto: ABC
+12-09-2019 10:24:53 INFO  Client:? - Cantidad: 5
+12-09-2019 10:24:53 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 10:24:53 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:24:53 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:24:53 INFO  Client:? - 
+
+
+12-09-2019 10:24:53 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:24:53 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:24:53 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:24:53 INFO  Client:? - 4. Salir
+12-09-2019 10:24:53 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:24:53 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:24:55 INFO  Client:? - Codigo Producto
+12-09-2019 10:24:56 INFO  Client:? - Producto agregado con exito.
+12-09-2019 10:24:56 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:24:56 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:24:56 INFO  Client:? - 
+
+
+12-09-2019 10:24:56 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:24:56 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:24:56 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:24:56 INFO  Client:? - 4. Salir
+12-09-2019 10:24:56 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:24:57 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:25:02 INFO  Client:? - Codigo Producto
+12-09-2019 10:25:03 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:03 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 10:25:03 INFO  Client:? - Codigo-Producto: ABC
+12-09-2019 10:25:03 INFO  Client:? - Cantidad: 5
+12-09-2019 10:25:03 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 10:25:03 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:03 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:25:03 INFO  Client:? - 
+
+
+12-09-2019 10:25:03 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:25:03 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:25:03 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:25:03 INFO  Client:? - 4. Salir
+12-09-2019 10:25:03 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:03 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:25:04 INFO  Client:? - Codigo Producto
+12-09-2019 10:25:06 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:06 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 10:25:06 INFO  Client:? - Codigo-Producto: ASDF
+12-09-2019 10:25:06 INFO  Client:? - Cantidad: 4
+12-09-2019 10:25:06 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 10:25:06 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:06 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:25:06 INFO  Client:? - 
+
+
+12-09-2019 10:25:06 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:25:06 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:25:06 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:25:06 INFO  Client:? - 4. Salir
+12-09-2019 10:25:06 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:06 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:25:08 INFO  Client:? - Codigo Producto
+12-09-2019 10:25:10 INFO  Client:? - Producto agregado con exito.
+12-09-2019 10:25:10 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:10 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:25:10 INFO  Client:? - 
+
+
+12-09-2019 10:25:10 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:25:10 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:25:10 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:25:10 INFO  Client:? - 4. Salir
+12-09-2019 10:25:10 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:10 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:25:11 INFO  Client:? - Codigo Producto
+12-09-2019 10:25:12 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:12 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 10:25:12 INFO  Client:? - Codigo-Producto: ABC
+12-09-2019 10:25:12 INFO  Client:? - Cantidad: 6
+12-09-2019 10:25:12 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 10:25:12 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:12 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:25:12 INFO  Client:? - 
+
+
+12-09-2019 10:25:12 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:25:12 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:25:12 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:25:12 INFO  Client:? - 4. Salir
+12-09-2019 10:25:12 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:12 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:25:15 INFO  Client:? - Codigo Producto
+12-09-2019 10:25:16 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:16 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 10:25:16 INFO  Client:? - Codigo-Producto: ASDF
+12-09-2019 10:25:16 INFO  Client:? - Cantidad: 4
+12-09-2019 10:25:16 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 10:25:16 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:16 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:25:16 INFO  Client:? - 
+
+
+12-09-2019 10:25:16 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:25:16 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:25:16 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:25:16 INFO  Client:? - 4. Salir
+12-09-2019 10:25:16 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:16 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:25:20 INFO  Client:? - Codigo Producto
+12-09-2019 10:25:21 INFO  Client:? - Producto agregado con exito.
+12-09-2019 10:25:21 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:21 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:25:21 INFO  Client:? - 
+
+
+12-09-2019 10:25:21 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:25:21 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:25:21 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:25:21 INFO  Client:? - 4. Salir
+12-09-2019 10:25:21 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:21 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:25:22 INFO  Client:? - Codigo Producto
+12-09-2019 10:25:24 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:24 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 10:25:24 INFO  Client:? - Codigo-Producto: ABC
+12-09-2019 10:25:24 INFO  Client:? - Cantidad: 7
+12-09-2019 10:25:24 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 10:25:24 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:24 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:25:24 INFO  Client:? - 
+
+
+12-09-2019 10:25:24 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:25:24 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:25:24 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:25:24 INFO  Client:? - 4. Salir
+12-09-2019 10:25:24 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:24 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:25:26 INFO  Client:? - Codigo Producto
+12-09-2019 10:25:27 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:27 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 10:25:27 INFO  Client:? - Codigo-Producto: ASDF
+12-09-2019 10:25:27 INFO  Client:? - Cantidad: 4
+12-09-2019 10:25:27 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 10:25:27 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:27 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:25:27 INFO  Client:? - 
+
+
+12-09-2019 10:25:27 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:25:27 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:25:27 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:25:27 INFO  Client:? - 4. Salir
+12-09-2019 10:25:27 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:27 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:25:30 INFO  Client:? - Codigo Producto
+12-09-2019 10:25:31 INFO  Client:? - Producto descontado del stock con exito.
+12-09-2019 10:25:31 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:31 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:25:31 INFO  Client:? - 
+
+
+12-09-2019 10:25:31 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:25:31 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:25:31 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:25:31 INFO  Client:? - 4. Salir
+12-09-2019 10:25:31 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:31 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:25:34 INFO  Client:? - Codigo Producto
+12-09-2019 10:25:36 INFO  Client:? - Producto descontado del stock con exito.
+12-09-2019 10:25:36 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:36 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:25:36 INFO  Client:? - 
+
+
+12-09-2019 10:25:36 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:25:36 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:25:36 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:25:36 INFO  Client:? - 4. Salir
+12-09-2019 10:25:36 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:36 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:25:37 INFO  Client:? - Codigo Producto
+12-09-2019 10:25:38 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:38 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 10:25:38 INFO  Client:? - Codigo-Producto: ABC
+12-09-2019 10:25:38 INFO  Client:? - Cantidad: 5
+12-09-2019 10:25:38 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 10:25:38 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:38 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:25:38 INFO  Client:? - 
+
+
+12-09-2019 10:25:38 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:25:38 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:25:38 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:25:38 INFO  Client:? - 4. Salir
+12-09-2019 10:25:38 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:38 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:25:41 INFO  Client:? - Codigo Producto
+12-09-2019 10:25:43 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:43 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 10:25:43 INFO  Client:? - Codigo-Producto: ASDF
+12-09-2019 10:25:43 INFO  Client:? - Cantidad: 4
+12-09-2019 10:25:43 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 10:25:43 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:43 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:25:43 INFO  Client:? - 
+
+
+12-09-2019 10:25:43 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:25:43 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:25:43 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:25:43 INFO  Client:? - 4. Salir
+12-09-2019 10:25:43 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:43 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:25:46 INFO  Client:? - Codigo Producto
+12-09-2019 10:25:47 INFO  Client:? - Producto descontado del stock con exito.
+12-09-2019 10:25:47 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:47 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:25:47 INFO  Client:? - 
+
+
+12-09-2019 10:25:47 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:25:47 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:25:47 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:25:47 INFO  Client:? - 4. Salir
+12-09-2019 10:25:47 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:47 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:25:49 INFO  Client:? - Codigo Producto
+12-09-2019 10:25:50 INFO  Client:? - Producto descontado del stock con exito.
+12-09-2019 10:25:50 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:50 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:25:50 INFO  Client:? - 
+
+
+12-09-2019 10:25:50 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:25:50 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:25:50 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:25:50 INFO  Client:? - 4. Salir
+12-09-2019 10:25:50 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:50 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:25:51 INFO  Client:? - Codigo Producto
+12-09-2019 10:25:52 INFO  Client:? - Producto descontado del stock con exito.
+12-09-2019 10:25:52 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:52 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:25:52 INFO  Client:? - 
+
+
+12-09-2019 10:25:52 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:25:52 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:25:52 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:25:52 INFO  Client:? - 4. Salir
+12-09-2019 10:25:52 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:52 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:25:53 INFO  Client:? - Codigo Producto
+12-09-2019 10:25:54 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:54 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 10:25:54 INFO  Client:? - Codigo-Producto: ABC
+12-09-2019 10:25:54 INFO  Client:? - Cantidad: 2
+12-09-2019 10:25:54 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 10:25:54 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:54 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:25:54 INFO  Client:? - 
+
+
+12-09-2019 10:25:54 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:25:54 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:25:54 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:25:54 INFO  Client:? - 4. Salir
+12-09-2019 10:25:54 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:54 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:25:56 INFO  Client:? - Codigo Producto
+12-09-2019 10:25:57 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:57 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 10:25:57 INFO  Client:? - Codigo-Producto: ASDF
+12-09-2019 10:25:57 INFO  Client:? - Cantidad: 4
+12-09-2019 10:25:57 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 10:25:57 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:57 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:25:57 INFO  Client:? - 
+
+
+12-09-2019 10:25:57 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:25:57 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:25:57 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:25:57 INFO  Client:? - 4. Salir
+12-09-2019 10:25:57 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:25:57 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:26:00 INFO  Client:? - Codigo Producto
+12-09-2019 10:26:02 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:26:02 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 10:26:02 INFO  Client:? - Codigo-Producto: ABC
+12-09-2019 10:26:02 INFO  Client:? - Cantidad: 2
+12-09-2019 10:26:02 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 10:26:02 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:26:02 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:26:02 INFO  Client:? - 
+
+
+12-09-2019 10:26:02 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:26:02 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:26:02 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:26:02 INFO  Client:? - 4. Salir
+12-09-2019 10:26:02 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:26:02 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:26:06 INFO  Client:? - Codigo Producto
+12-09-2019 10:26:07 INFO  Client:? - Producto descontado del stock con exito.
+12-09-2019 10:26:07 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:26:07 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:26:07 INFO  Client:? - 
+
+
+12-09-2019 10:26:07 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:26:07 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:26:07 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:26:07 INFO  Client:? - 4. Salir
+12-09-2019 10:26:07 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:26:07 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:26:08 INFO  Client:? - Codigo Producto
+12-09-2019 10:26:10 INFO  Client:? - Producto descontado del stock con exito.
+12-09-2019 10:26:10 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:26:10 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:26:10 INFO  Client:? - 
+
+
+12-09-2019 10:26:10 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:26:10 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:26:10 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:26:10 INFO  Client:? - 4. Salir
+12-09-2019 10:26:10 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:26:10 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:26:13 INFO  Client:? - Codigo Producto
+12-09-2019 10:26:14 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:26:14 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 10:26:14 INFO  Client:? - Codigo-Producto: ABC
+12-09-2019 10:26:14 INFO  Client:? - Cantidad: 0
+12-09-2019 10:26:14 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 10:26:14 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:26:14 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:26:14 INFO  Client:? - 
+
+
+12-09-2019 10:26:14 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:26:14 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:26:14 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:26:14 INFO  Client:? - 4. Salir
+12-09-2019 10:26:14 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:26:14 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:26:17 INFO  Client:? - Codigo Producto
+12-09-2019 10:26:18 INFO  Client:? - No se pudo descontar el stock.
+12-09-2019 10:26:18 INFO  Client:? - El producto no existe o posee stock 0.
+12-09-2019 10:26:18 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:26:18 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:26:18 INFO  Client:? - 
+
+
+12-09-2019 10:26:18 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:26:18 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:26:18 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:26:18 INFO  Client:? - 4. Salir
+12-09-2019 10:26:18 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:26:18 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:26:24 INFO  Client:? - Codigo Producto
+12-09-2019 10:26:25 INFO  Client:? - No se pudo descontar el stock.
+12-09-2019 10:26:25 INFO  Client:? - El producto no existe o posee stock 0.
+12-09-2019 10:26:25 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:26:25 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:26:25 INFO  Client:? - 
+
+
+12-09-2019 10:26:25 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:26:25 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:26:25 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:26:25 INFO  Client:? - 4. Salir
+12-09-2019 10:26:25 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:26:25 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:26:31 INFO  Client:? - Codigo Producto
+12-09-2019 10:26:32 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:26:32 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 10:26:32 INFO  Client:? - Codigo-Producto: ABC
+12-09-2019 10:26:32 INFO  Client:? - Cantidad: 0
+12-09-2019 10:26:32 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 10:26:32 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:26:32 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:26:32 INFO  Client:? - 
+
+
+12-09-2019 10:26:32 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:26:32 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:26:32 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:26:32 INFO  Client:? - 4. Salir
+12-09-2019 10:26:32 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:26:32 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:26:40 INFO  Client:? - Opcion no valida. Vuelva a intentarlo.
+12-09-2019 10:26:40 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:26:40 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:26:40 INFO  Client:? - 
+
+
+12-09-2019 10:26:40 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:26:40 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:26:40 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:26:40 INFO  Client:? - 4. Salir
+12-09-2019 10:26:40 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:26:40 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:26:45 INFO  Client:? - Opcion no valida. Vuelva a intentarlo.
+12-09-2019 10:34:07 INFO  Client:? - Conectando con servidor remoto...
+12-09-2019 10:34:08 INFO  Client:? - Ok.
+12-09-2019 10:34:08 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:34:08 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:34:08 INFO  Client:? - 
+
+
+12-09-2019 10:34:08 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:34:08 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:34:08 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:34:08 INFO  Client:? - 4. Salir
+12-09-2019 10:34:08 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:34:08 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:34:11 INFO  Client:? - \033[H\033[2J
+12-09-2019 10:34:11 INFO  Client:? - Codigo Producto
+12-09-2019 10:34:19 INFO  Client:? - Producto agregado con exito.
+12-09-2019 10:34:19 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:34:19 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:34:19 INFO  Client:? - 
+
+
+12-09-2019 10:34:19 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:34:19 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:34:19 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:34:19 INFO  Client:? - 4. Salir
+12-09-2019 10:34:19 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:34:19 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:34:21 INFO  Client:? - \033[H\033[2J
+12-09-2019 10:34:21 INFO  Client:? - Opcion no valida. Vuelva a intentarlo.
+12-09-2019 10:35:07 INFO  Client:? - Conectando con servidor remoto...
+12-09-2019 10:35:08 INFO  Client:? - Ok.
+12-09-2019 10:35:08 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:35:08 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:35:08 INFO  Client:? - 
+
+
+12-09-2019 10:35:08 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:35:08 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:35:08 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:35:08 INFO  Client:? - 4. Salir
+12-09-2019 10:35:08 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:35:08 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:35:10 INFO  Client:? - Codigo Producto
+12-09-2019 10:35:13 INFO  Client:? - Producto agregado con exito.
+12-09-2019 10:35:13 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:35:13 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:35:13 INFO  Client:? - 
+
+
+12-09-2019 10:35:13 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:35:13 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:35:13 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:35:13 INFO  Client:? - 4. Salir
+12-09-2019 10:35:13 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:35:13 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:35:22 INFO  Client:? - Codigo Producto
+12-09-2019 10:35:23 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:35:23 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 10:35:23 INFO  Client:? - Codigo-Producto: ABC
+12-09-2019 10:35:23 INFO  Client:? - Cantidad: 2
+12-09-2019 10:35:23 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 10:35:23 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:35:23 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:35:23 INFO  Client:? - 
+
+
+12-09-2019 10:35:23 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:35:23 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:35:23 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:35:23 INFO  Client:? - 4. Salir
+12-09-2019 10:35:23 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:35:23 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:35:28 INFO  Client:? - Opcion no valida. Vuelva a intentarlo.
+12-09-2019 10:43:19 INFO  Client:? - Conectando con servidor remoto...
+12-09-2019 10:43:20 INFO  Client:? - Ok.
+12-09-2019 10:43:20 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:43:20 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:43:20 INFO  Client:? - 
+
+
+12-09-2019 10:43:20 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:43:20 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:43:20 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:43:20 INFO  Client:? - 4. Salir
+12-09-2019 10:43:20 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:43:20 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:43:24 INFO  Client:? - Codigo Producto
+12-09-2019 10:43:28 INFO  Client:? - Producto agregado con exito.
+12-09-2019 10:43:28 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:43:28 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:43:28 INFO  Client:? - 
+
+
+12-09-2019 10:43:28 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:43:28 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:43:28 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:43:28 INFO  Client:? - 4. Salir
+12-09-2019 10:43:28 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:43:28 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:43:40 INFO  Client:? - Opcion no valida. Vuelva a intentarlo.
+12-09-2019 10:44:50 INFO  Client:? - Conectando con servidor remoto...
+12-09-2019 10:44:51 INFO  Client:? - Ok.
+12-09-2019 10:44:51 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:44:51 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:44:51 INFO  Client:? - 
+
+
+12-09-2019 10:44:51 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:44:51 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:44:51 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:44:51 INFO  Client:? - 4. Salir
+12-09-2019 10:44:51 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:44:51 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:44:55 INFO  Client:? - Codigo Producto
+12-09-2019 10:44:57 INFO  Client:? - Producto agregado con exito.
+12-09-2019 10:44:57 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:44:57 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:44:57 INFO  Client:? - 
+
+
+12-09-2019 10:44:57 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:44:57 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:44:57 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:44:57 INFO  Client:? - 4. Salir
+12-09-2019 10:44:57 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:44:57 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:45:05 INFO  Client:? - Codigo Producto
+12-09-2019 10:45:11 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:45:11 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 10:45:11 INFO  Client:? - Codigo-Producto: ABC
+12-09-2019 10:45:11 INFO  Client:? - Cantidad: 2
+12-09-2019 10:45:11 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 10:45:11 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:45:11 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:45:11 INFO  Client:? - 
+
+
+12-09-2019 10:45:11 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:45:11 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:45:11 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:45:11 INFO  Client:? - 4. Salir
+12-09-2019 10:45:11 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:45:11 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:45:13 INFO  Client:? - Opcion no valida. Vuelva a intentarlo.
+12-09-2019 10:47:03 INFO  Client:? - Conectando con servidor remoto...
+12-09-2019 10:47:04 INFO  Client:? - Ok.
+12-09-2019 10:47:04 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:47:04 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:47:04 INFO  Client:? - 
+
+
+12-09-2019 10:47:04 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:47:04 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:47:04 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:47:04 INFO  Client:? - 4. Salir
+12-09-2019 10:47:04 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:47:04 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:47:08 INFO  Client:? - Codigo Producto
+12-09-2019 10:47:11 INFO  Client:? - Producto agregado con exito.
+12-09-2019 10:47:11 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:47:11 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:47:11 INFO  Client:? - 
+
+
+12-09-2019 10:47:11 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:47:11 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:47:11 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:47:11 INFO  Client:? - 4. Salir
+12-09-2019 10:47:11 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:47:11 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:47:17 INFO  Client:? - Codigo Producto
+12-09-2019 10:47:19 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:47:19 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 10:47:19 INFO  Client:? - Codigo-Producto: ABC
+12-09-2019 10:47:19 INFO  Client:? - Cantidad: 3
+12-09-2019 10:47:19 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 10:47:19 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:47:19 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:47:19 INFO  Client:? - 
+
+
+12-09-2019 10:47:19 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:47:19 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:47:19 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:47:19 INFO  Client:? - 4. Salir
+12-09-2019 10:47:19 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:47:19 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:47:25 INFO  Client:? - Opcion no valida. Vuelva a intentarlo.
+12-09-2019 10:50:31 INFO  Client:? - Conectando con servidor remoto...
+12-09-2019 10:50:32 INFO  Client:? - Ok.
+12-09-2019 10:50:32 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:50:32 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:50:32 INFO  Client:? - 
+
+
+12-09-2019 10:50:33 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:50:33 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:50:33 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:50:33 INFO  Client:? - 4. Salir
+12-09-2019 10:50:33 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:50:33 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:50:37 INFO  Client:? - Codigo Producto
+12-09-2019 10:50:39 INFO  Client:? - Producto agregado con exito.
+12-09-2019 10:50:40 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:50:40 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:50:40 INFO  Client:? - 
+
+
+12-09-2019 10:50:40 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:50:40 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:50:40 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:50:40 INFO  Client:? - 4. Salir
+12-09-2019 10:50:40 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:50:40 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:51:09 INFO  Client:? - Codigo Producto
+12-09-2019 10:51:11 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:51:11 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 10:51:11 INFO  Client:? - Codigo-Producto: ABC
+12-09-2019 10:51:11 INFO  Client:? - Cantidad: 4
+12-09-2019 10:51:11 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 10:51:11 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:51:11 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:51:11 INFO  Client:? - 
+
+
+12-09-2019 10:51:11 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:51:11 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:51:11 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:51:11 INFO  Client:? - 4. Salir
+12-09-2019 10:51:11 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:51:11 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:51:13 INFO  Client:? - Saliendo...
+12-09-2019 10:52:15 INFO  Client:? - Conectando con servidor remoto...
+12-09-2019 10:52:16 INFO  Client:? - Ok.
+12-09-2019 10:52:16 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:52:16 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:52:16 INFO  Client:? - 
+
+
+12-09-2019 10:52:16 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:52:16 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:52:16 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:52:16 INFO  Client:? - 4. Salir
+12-09-2019 10:52:16 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:52:16 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:52:19 INFO  Client:? - Codigo Producto
+12-09-2019 10:52:21 INFO  Client:? - Producto agregado con exito.
+12-09-2019 10:52:21 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:52:21 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:52:21 INFO  Client:? - 
+
+
+12-09-2019 10:52:21 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:52:21 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:52:21 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:52:21 INFO  Client:? - 4. Salir
+12-09-2019 10:52:21 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:52:21 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:52:26 INFO  Client:? - Codigo Producto
+12-09-2019 10:52:27 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:52:27 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 10:52:27 INFO  Client:? - Codigo-Producto: ABC
+12-09-2019 10:52:27 INFO  Client:? - Cantidad: 5
+12-09-2019 10:52:27 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 10:52:27 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:52:27 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:52:27 INFO  Client:? - 
+
+
+12-09-2019 10:52:27 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:52:27 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:52:27 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:52:27 INFO  Client:? - 4. Salir
+12-09-2019 10:52:27 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:52:27 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:52:30 INFO  Client:? - Saliendo...
+12-09-2019 10:52:59 INFO  Client:? - Conectando con servidor remoto...
+12-09-2019 10:53:00 INFO  Client:? - Ok.
+12-09-2019 10:53:00 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:53:00 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:53:00 INFO  Client:? - 
+
+
+12-09-2019 10:53:01 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:53:01 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:53:01 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:53:01 INFO  Client:? - 4. Salir
+12-09-2019 10:53:01 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:53:01 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:53:03 INFO  Client:? - Codigo Producto
+12-09-2019 10:53:05 INFO  Client:? - Producto agregado con exito.
+12-09-2019 10:53:05 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:53:05 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 10:53:05 INFO  Client:? - 
+
+
+12-09-2019 10:53:05 INFO  Client:? - 1. Agregar producto.
+12-09-2019 10:53:05 INFO  Client:? - 2. Consultar stock.
+12-09-2019 10:53:05 INFO  Client:? - 3. Descontar stock.
+12-09-2019 10:53:05 INFO  Client:? - 4. Salir
+12-09-2019 10:53:05 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 10:53:05 INFO  Client:? - Ingrese una opcion:
+12-09-2019 10:53:14 INFO  Client:? - Saliendo...
+12-09-2019 14:07:28 INFO  Client:? - Conectando con servidor remoto...
+12-09-2019 14:11:53 INFO  Client:? - Conectando con servidor remoto...
+12-09-2019 14:11:55 INFO  Client:? - Ok.
+12-09-2019 14:11:55 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:11:55 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 14:11:55 INFO  Client:? - 
+
+
+12-09-2019 14:11:55 INFO  Client:? - 1. Agregar producto.
+12-09-2019 14:11:55 INFO  Client:? - 2. Consultar stock.
+12-09-2019 14:11:55 INFO  Client:? - 3. Descontar stock.
+12-09-2019 14:11:55 INFO  Client:? - 4. Salir
+12-09-2019 14:11:55 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:11:55 INFO  Client:? - Ingrese una opcion:
+12-09-2019 14:12:10 INFO  Client:? - Codigo Producto
+12-09-2019 14:12:13 INFO  Client:? - Producto agregado con exito.
+12-09-2019 14:12:13 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 14:20:33 INFO  Client:? - Conectando con servidor remoto...
+12-09-2019 14:20:35 INFO  Client:? - Ok.
+12-09-2019 14:20:35 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:20:35 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 14:20:35 INFO  Client:? - 
+
+
+12-09-2019 14:20:35 INFO  Client:? - 1. Agregar producto.
+12-09-2019 14:20:35 INFO  Client:? - 2. Consultar stock.
+12-09-2019 14:20:35 INFO  Client:? - 3. Descontar stock.
+12-09-2019 14:20:35 INFO  Client:? - 4. Salir
+12-09-2019 14:20:35 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:20:35 INFO  Client:? - Ingrese una opcion:
+12-09-2019 14:20:39 INFO  Client:? - Codigo Producto
+12-09-2019 14:20:43 INFO  Client:? - Producto agregado con exito.
+12-09-2019 14:20:46 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:20:46 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 14:20:46 INFO  Client:? - 
+
+
+12-09-2019 14:20:46 INFO  Client:? - 1. Agregar producto.
+12-09-2019 14:20:46 INFO  Client:? - 2. Consultar stock.
+12-09-2019 14:20:46 INFO  Client:? - 3. Descontar stock.
+12-09-2019 14:20:46 INFO  Client:? - 4. Salir
+12-09-2019 14:20:46 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:20:46 INFO  Client:? - Ingrese una opcion:
+12-09-2019 14:20:51 INFO  Client:? - Codigo Producto
+12-09-2019 14:20:52 INFO  Client:? - Producto agregado con exito.
+12-09-2019 14:20:56 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:20:56 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 14:20:56 INFO  Client:? - 
+
+
+12-09-2019 14:20:56 INFO  Client:? - 1. Agregar producto.
+12-09-2019 14:20:56 INFO  Client:? - 2. Consultar stock.
+12-09-2019 14:20:56 INFO  Client:? - 3. Descontar stock.
+12-09-2019 14:20:56 INFO  Client:? - 4. Salir
+12-09-2019 14:20:56 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:20:56 INFO  Client:? - Ingrese una opcion:
+12-09-2019 14:21:00 INFO  Client:? - Codigo Producto
+12-09-2019 14:21:01 INFO  Client:? - Producto agregado con exito.
+12-09-2019 14:21:04 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:21:04 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 14:21:04 INFO  Client:? - 
+
+
+12-09-2019 14:21:04 INFO  Client:? - 1. Agregar producto.
+12-09-2019 14:21:04 INFO  Client:? - 2. Consultar stock.
+12-09-2019 14:21:04 INFO  Client:? - 3. Descontar stock.
+12-09-2019 14:21:04 INFO  Client:? - 4. Salir
+12-09-2019 14:21:04 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:21:04 INFO  Client:? - Ingrese una opcion:
+12-09-2019 14:21:09 INFO  Client:? - Codigo Producto
+12-09-2019 14:21:10 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:21:10 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 14:21:10 INFO  Client:? - Codigo-Producto: ABC
+12-09-2019 14:21:10 INFO  Client:? - Cantidad: 3
+12-09-2019 14:21:10 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 14:21:13 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:21:13 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 14:21:13 INFO  Client:? - 
+
+
+12-09-2019 14:21:13 INFO  Client:? - 1. Agregar producto.
+12-09-2019 14:21:13 INFO  Client:? - 2. Consultar stock.
+12-09-2019 14:21:13 INFO  Client:? - 3. Descontar stock.
+12-09-2019 14:21:13 INFO  Client:? - 4. Salir
+12-09-2019 14:21:13 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:21:13 INFO  Client:? - Ingrese una opcion:
+12-09-2019 14:22:03 INFO  Client:? - Opcion no valida. Vuelva a intentarlo.
+12-09-2019 14:22:06 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:22:06 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 14:22:06 INFO  Client:? - 
+
+
+12-09-2019 14:22:06 INFO  Client:? - 1. Agregar producto.
+12-09-2019 14:22:06 INFO  Client:? - 2. Consultar stock.
+12-09-2019 14:22:06 INFO  Client:? - 3. Descontar stock.
+12-09-2019 14:22:06 INFO  Client:? - 4. Salir
+12-09-2019 14:22:06 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:22:06 INFO  Client:? - Ingrese una opcion:
+12-09-2019 14:22:07 INFO  Client:? - Saliendo...
+12-09-2019 14:25:16 INFO  Client:? - Conectando con servidor remoto...
+12-09-2019 14:25:18 INFO  Client:? - Ok.
+12-09-2019 14:25:18 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:25:18 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 14:25:18 INFO  Client:? - 
+
+
+12-09-2019 14:25:18 INFO  Client:? - 1. Agregar producto.
+12-09-2019 14:25:18 INFO  Client:? - 2. Consultar stock.
+12-09-2019 14:25:18 INFO  Client:? - 3. Descontar stock.
+12-09-2019 14:25:18 INFO  Client:? - 4. Salir
+12-09-2019 14:25:18 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:25:18 INFO  Client:? - Ingrese una opcion:
+12-09-2019 14:25:21 INFO  Client:? - Codigo Producto
+12-09-2019 14:25:22 INFO  Client:? - Producto agregado con exito.
+12-09-2019 14:25:22 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 14:26:49 INFO  Client:? - Conectando con servidor remoto...
+12-09-2019 14:26:50 INFO  Client:? - Ok.
+12-09-2019 14:26:50 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:26:51 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 14:26:51 INFO  Client:? - 
+
+
+12-09-2019 14:26:51 INFO  Client:? - 1. Agregar producto.
+12-09-2019 14:26:51 INFO  Client:? - 2. Consultar stock.
+12-09-2019 14:26:51 INFO  Client:? - 3. Descontar stock.
+12-09-2019 14:26:51 INFO  Client:? - 4. Salir
+12-09-2019 14:26:51 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:26:51 INFO  Client:? - Ingrese una opcion:
+12-09-2019 14:26:54 INFO  Client:? - Codigo Producto
+12-09-2019 14:26:55 INFO  Client:? - Producto agregado con exito.
+12-09-2019 14:26:55 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 14:26:57 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:26:57 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 14:26:57 INFO  Client:? - 
+
+
+12-09-2019 14:26:57 INFO  Client:? - 1. Agregar producto.
+12-09-2019 14:26:57 INFO  Client:? - 2. Consultar stock.
+12-09-2019 14:26:57 INFO  Client:? - 3. Descontar stock.
+12-09-2019 14:26:57 INFO  Client:? - 4. Salir
+12-09-2019 14:26:57 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:26:57 INFO  Client:? - Ingrese una opcion:
+12-09-2019 14:27:00 INFO  Client:? - Saliendo...
+12-09-2019 14:27:35 INFO  Client:? - Conectando con servidor remoto...
+12-09-2019 14:27:36 INFO  Client:? - Ok.
+12-09-2019 14:27:36 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:27:36 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 14:27:36 INFO  Client:? - 
+
+
+12-09-2019 14:27:36 INFO  Client:? - 1. Agregar producto.
+12-09-2019 14:27:36 INFO  Client:? - 2. Consultar stock.
+12-09-2019 14:27:36 INFO  Client:? - 3. Descontar stock.
+12-09-2019 14:27:36 INFO  Client:? - 4. Salir
+12-09-2019 14:27:36 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:27:36 INFO  Client:? - Ingrese una opcion:
+12-09-2019 14:27:42 INFO  Client:? - Codigo Producto
+12-09-2019 14:27:44 INFO  Client:? - Producto agregado con exito.
+12-09-2019 14:27:44 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 14:27:47 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:27:47 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 14:27:47 INFO  Client:? - 
+
+
+12-09-2019 14:27:47 INFO  Client:? - 1. Agregar producto.
+12-09-2019 14:27:47 INFO  Client:? - 2. Consultar stock.
+12-09-2019 14:27:47 INFO  Client:? - 3. Descontar stock.
+12-09-2019 14:27:47 INFO  Client:? - 4. Salir
+12-09-2019 14:27:47 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:27:47 INFO  Client:? - Ingrese una opcion:
+12-09-2019 14:27:50 INFO  Client:? - Codigo Producto
+12-09-2019 14:27:52 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:27:52 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 14:27:52 INFO  Client:? - Codigo-Producto: ABC
+12-09-2019 14:27:52 INFO  Client:? - Cantidad: 1
+12-09-2019 14:27:52 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 14:27:52 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 14:27:57 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:27:57 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 14:27:57 INFO  Client:? - 
+
+
+12-09-2019 14:27:57 INFO  Client:? - 1. Agregar producto.
+12-09-2019 14:27:57 INFO  Client:? - 2. Consultar stock.
+12-09-2019 14:27:57 INFO  Client:? - 3. Descontar stock.
+12-09-2019 14:27:57 INFO  Client:? - 4. Salir
+12-09-2019 14:27:57 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:27:57 INFO  Client:? - Ingrese una opcion:
+12-09-2019 14:27:58 INFO  Client:? - Codigo Producto
+12-09-2019 14:27:59 INFO  Client:? - Producto agregado con exito.
+12-09-2019 14:27:59 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 14:28:00 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:28:00 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 14:28:00 INFO  Client:? - 
+
+
+12-09-2019 14:28:00 INFO  Client:? - 1. Agregar producto.
+12-09-2019 14:28:00 INFO  Client:? - 2. Consultar stock.
+12-09-2019 14:28:00 INFO  Client:? - 3. Descontar stock.
+12-09-2019 14:28:00 INFO  Client:? - 4. Salir
+12-09-2019 14:28:00 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:28:00 INFO  Client:? - Ingrese una opcion:
+12-09-2019 14:28:01 INFO  Client:? - Codigo Producto
+12-09-2019 14:28:02 INFO  Client:? - Producto agregado con exito.
+12-09-2019 14:28:02 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 14:28:04 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:28:04 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 14:28:04 INFO  Client:? - 
+
+
+12-09-2019 14:28:04 INFO  Client:? - 1. Agregar producto.
+12-09-2019 14:28:04 INFO  Client:? - 2. Consultar stock.
+12-09-2019 14:28:04 INFO  Client:? - 3. Descontar stock.
+12-09-2019 14:28:04 INFO  Client:? - 4. Salir
+12-09-2019 14:28:04 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:28:04 INFO  Client:? - Ingrese una opcion:
+12-09-2019 14:28:08 INFO  Client:? - Codigo Producto
+12-09-2019 14:28:09 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:28:09 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 14:28:09 INFO  Client:? - Codigo-Producto: ABC
+12-09-2019 14:28:09 INFO  Client:? - Cantidad: 3
+12-09-2019 14:28:09 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 14:28:09 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 14:28:11 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:28:11 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 14:28:11 INFO  Client:? - 
+
+
+12-09-2019 14:28:11 INFO  Client:? - 1. Agregar producto.
+12-09-2019 14:28:11 INFO  Client:? - 2. Consultar stock.
+12-09-2019 14:28:11 INFO  Client:? - 3. Descontar stock.
+12-09-2019 14:28:11 INFO  Client:? - 4. Salir
+12-09-2019 14:28:11 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:28:11 INFO  Client:? - Ingrese una opcion:
+12-09-2019 14:28:13 INFO  Client:? - Codigo Producto
+12-09-2019 14:28:14 INFO  Client:? - Producto agregado con exito.
+12-09-2019 14:28:14 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 14:28:15 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:28:15 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 14:28:15 INFO  Client:? - 
+
+
+12-09-2019 14:28:15 INFO  Client:? - 1. Agregar producto.
+12-09-2019 14:28:15 INFO  Client:? - 2. Consultar stock.
+12-09-2019 14:28:15 INFO  Client:? - 3. Descontar stock.
+12-09-2019 14:28:15 INFO  Client:? - 4. Salir
+12-09-2019 14:28:15 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:28:15 INFO  Client:? - Ingrese una opcion:
+12-09-2019 14:28:17 INFO  Client:? - Codigo Producto
+12-09-2019 14:28:18 INFO  Client:? - Producto agregado con exito.
+12-09-2019 14:28:18 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 14:28:19 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:28:19 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 14:28:19 INFO  Client:? - 
+
+
+12-09-2019 14:28:19 INFO  Client:? - 1. Agregar producto.
+12-09-2019 14:28:19 INFO  Client:? - 2. Consultar stock.
+12-09-2019 14:28:19 INFO  Client:? - 3. Descontar stock.
+12-09-2019 14:28:19 INFO  Client:? - 4. Salir
+12-09-2019 14:28:19 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:28:19 INFO  Client:? - Ingrese una opcion:
+12-09-2019 14:28:20 INFO  Client:? - Codigo Producto
+12-09-2019 14:28:21 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:28:21 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 14:28:21 INFO  Client:? - Codigo-Producto: ASDF
+12-09-2019 14:28:21 INFO  Client:? - Cantidad: 3
+12-09-2019 14:28:21 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 14:28:21 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 14:28:24 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:28:24 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 14:28:24 INFO  Client:? - 
+
+
+12-09-2019 14:28:25 INFO  Client:? - 1. Agregar producto.
+12-09-2019 14:28:25 INFO  Client:? - 2. Consultar stock.
+12-09-2019 14:28:25 INFO  Client:? - 3. Descontar stock.
+12-09-2019 14:28:25 INFO  Client:? - 4. Salir
+12-09-2019 14:28:25 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:28:25 INFO  Client:? - Ingrese una opcion:
+12-09-2019 14:28:25 INFO  Client:? - Codigo Producto
+12-09-2019 14:28:27 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:28:27 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 14:28:27 INFO  Client:? - Codigo-Producto: ABC
+12-09-2019 14:28:27 INFO  Client:? - Cantidad: 3
+12-09-2019 14:28:27 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 14:28:27 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 14:28:29 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:28:29 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 14:28:29 INFO  Client:? - 
+
+
+12-09-2019 14:28:29 INFO  Client:? - 1. Agregar producto.
+12-09-2019 14:28:29 INFO  Client:? - 2. Consultar stock.
+12-09-2019 14:28:29 INFO  Client:? - 3. Descontar stock.
+12-09-2019 14:28:29 INFO  Client:? - 4. Salir
+12-09-2019 14:28:29 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:28:29 INFO  Client:? - Ingrese una opcion:
+12-09-2019 14:28:31 INFO  Client:? - Codigo Producto
+12-09-2019 14:28:32 INFO  Client:? - Producto agregado con exito.
+12-09-2019 14:28:32 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 14:28:33 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:28:33 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 14:28:33 INFO  Client:? - 
+
+
+12-09-2019 14:28:33 INFO  Client:? - 1. Agregar producto.
+12-09-2019 14:28:33 INFO  Client:? - 2. Consultar stock.
+12-09-2019 14:28:33 INFO  Client:? - 3. Descontar stock.
+12-09-2019 14:28:33 INFO  Client:? - 4. Salir
+12-09-2019 14:28:33 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:28:33 INFO  Client:? - Ingrese una opcion:
+12-09-2019 14:28:34 INFO  Client:? - Codigo Producto
+12-09-2019 14:28:35 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:28:35 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 14:28:35 INFO  Client:? - Codigo-Producto: ABC
+12-09-2019 14:28:35 INFO  Client:? - Cantidad: 3
+12-09-2019 14:28:35 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 14:28:35 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 14:28:36 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:28:36 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 14:28:36 INFO  Client:? - 
+
+
+12-09-2019 14:28:36 INFO  Client:? - 1. Agregar producto.
+12-09-2019 14:28:36 INFO  Client:? - 2. Consultar stock.
+12-09-2019 14:28:36 INFO  Client:? - 3. Descontar stock.
+12-09-2019 14:28:36 INFO  Client:? - 4. Salir
+12-09-2019 14:28:36 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:28:36 INFO  Client:? - Ingrese una opcion:
+12-09-2019 14:28:37 INFO  Client:? - Codigo Producto
+12-09-2019 14:28:40 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:28:40 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 14:28:40 INFO  Client:? - Codigo-Producto: ASDF
+12-09-2019 14:28:40 INFO  Client:? - Cantidad: 4
+12-09-2019 14:28:40 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 14:28:40 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 14:28:41 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:28:41 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 14:28:41 INFO  Client:? - 
+
+
+12-09-2019 14:28:41 INFO  Client:? - 1. Agregar producto.
+12-09-2019 14:28:41 INFO  Client:? - 2. Consultar stock.
+12-09-2019 14:28:41 INFO  Client:? - 3. Descontar stock.
+12-09-2019 14:28:41 INFO  Client:? - 4. Salir
+12-09-2019 14:28:41 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:28:41 INFO  Client:? - Ingrese una opcion:
+12-09-2019 14:28:43 INFO  Client:? - Codigo Producto
+12-09-2019 14:28:44 INFO  Client:? - Producto descontado del stock con exito.
+12-09-2019 14:28:44 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 14:28:48 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:28:48 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 14:28:48 INFO  Client:? - 
+
+
+12-09-2019 14:28:48 INFO  Client:? - 1. Agregar producto.
+12-09-2019 14:28:48 INFO  Client:? - 2. Consultar stock.
+12-09-2019 14:28:48 INFO  Client:? - 3. Descontar stock.
+12-09-2019 14:28:48 INFO  Client:? - 4. Salir
+12-09-2019 14:28:48 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:28:48 INFO  Client:? - Ingrese una opcion:
+12-09-2019 14:28:49 INFO  Client:? - Codigo Producto
+12-09-2019 14:28:50 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:28:50 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 14:28:50 INFO  Client:? - Codigo-Producto: ABC
+12-09-2019 14:28:50 INFO  Client:? - Cantidad: 2
+12-09-2019 14:28:50 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 14:28:50 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 14:28:51 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:28:51 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 14:28:51 INFO  Client:? - 
+
+
+12-09-2019 14:28:51 INFO  Client:? - 1. Agregar producto.
+12-09-2019 14:28:51 INFO  Client:? - 2. Consultar stock.
+12-09-2019 14:28:51 INFO  Client:? - 3. Descontar stock.
+12-09-2019 14:28:51 INFO  Client:? - 4. Salir
+12-09-2019 14:28:51 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:28:51 INFO  Client:? - Ingrese una opcion:
+12-09-2019 14:28:52 INFO  Client:? - Codigo Producto
+12-09-2019 14:28:53 INFO  Client:? - Producto descontado del stock con exito.
+12-09-2019 14:28:53 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 14:28:55 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:28:55 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 14:28:55 INFO  Client:? - 
+
+
+12-09-2019 14:28:55 INFO  Client:? - 1. Agregar producto.
+12-09-2019 14:28:55 INFO  Client:? - 2. Consultar stock.
+12-09-2019 14:28:55 INFO  Client:? - 3. Descontar stock.
+12-09-2019 14:28:55 INFO  Client:? - 4. Salir
+12-09-2019 14:28:55 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:28:55 INFO  Client:? - Ingrese una opcion:
+12-09-2019 14:28:56 INFO  Client:? - Codigo Producto
+12-09-2019 14:28:57 INFO  Client:? - Producto descontado del stock con exito.
+12-09-2019 14:28:57 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 14:28:58 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:28:58 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 14:28:58 INFO  Client:? - 
+
+
+12-09-2019 14:28:58 INFO  Client:? - 1. Agregar producto.
+12-09-2019 14:28:58 INFO  Client:? - 2. Consultar stock.
+12-09-2019 14:28:58 INFO  Client:? - 3. Descontar stock.
+12-09-2019 14:28:58 INFO  Client:? - 4. Salir
+12-09-2019 14:28:58 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:28:58 INFO  Client:? - Ingrese una opcion:
+12-09-2019 14:28:59 INFO  Client:? - Codigo Producto
+12-09-2019 14:29:00 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:29:00 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 14:29:00 INFO  Client:? - Codigo-Producto: ABC
+12-09-2019 14:29:00 INFO  Client:? - Cantidad: 0
+12-09-2019 14:29:00 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 14:29:00 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 14:29:02 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:29:02 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 14:29:02 INFO  Client:? - 
+
+
+12-09-2019 14:29:02 INFO  Client:? - 1. Agregar producto.
+12-09-2019 14:29:02 INFO  Client:? - 2. Consultar stock.
+12-09-2019 14:29:02 INFO  Client:? - 3. Descontar stock.
+12-09-2019 14:29:02 INFO  Client:? - 4. Salir
+12-09-2019 14:29:02 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:29:02 INFO  Client:? - Ingrese una opcion:
+12-09-2019 14:29:04 INFO  Client:? - Codigo Producto
+12-09-2019 14:29:05 INFO  Client:? - No se pudo descontar el stock.
+12-09-2019 14:29:05 INFO  Client:? - El producto no existe o posee stock 0.
+12-09-2019 14:29:05 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 14:29:10 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:29:10 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 14:29:10 INFO  Client:? - 
+
+
+12-09-2019 14:29:10 INFO  Client:? - 1. Agregar producto.
+12-09-2019 14:29:10 INFO  Client:? - 2. Consultar stock.
+12-09-2019 14:29:10 INFO  Client:? - 3. Descontar stock.
+12-09-2019 14:29:10 INFO  Client:? - 4. Salir
+12-09-2019 14:29:10 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:29:10 INFO  Client:? - Ingrese una opcion:
+12-09-2019 14:29:13 INFO  Client:? - Codigo Producto
+12-09-2019 14:29:22 INFO  Client:? - Producto agregado con exito.
+12-09-2019 14:29:22 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 14:29:23 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:29:23 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 14:29:23 INFO  Client:? - 
+
+
+12-09-2019 14:29:23 INFO  Client:? - 1. Agregar producto.
+12-09-2019 14:29:23 INFO  Client:? - 2. Consultar stock.
+12-09-2019 14:29:23 INFO  Client:? - 3. Descontar stock.
+12-09-2019 14:29:23 INFO  Client:? - 4. Salir
+12-09-2019 14:29:23 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:29:23 INFO  Client:? - Ingrese una opcion:
+12-09-2019 14:29:25 INFO  Client:? - Codigo Producto
+12-09-2019 14:29:26 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:29:26 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 14:29:26 INFO  Client:? - Codigo-Producto: ABC
+12-09-2019 14:29:26 INFO  Client:? - Cantidad: 0
+12-09-2019 14:29:26 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 14:29:26 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 14:29:29 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:29:29 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 14:29:29 INFO  Client:? - 
+
+
+12-09-2019 14:29:29 INFO  Client:? - 1. Agregar producto.
+12-09-2019 14:29:29 INFO  Client:? - 2. Consultar stock.
+12-09-2019 14:29:29 INFO  Client:? - 3. Descontar stock.
+12-09-2019 14:29:29 INFO  Client:? - 4. Salir
+12-09-2019 14:29:29 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:29:30 INFO  Client:? - Ingrese una opcion:
+12-09-2019 14:29:32 INFO  Client:? - Codigo Producto
+12-09-2019 14:29:33 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:29:33 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 14:29:33 INFO  Client:? - Codigo-Producto: ASDF
+12-09-2019 14:29:34 INFO  Client:? - Cantidad: 5
+12-09-2019 14:29:34 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 14:29:34 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 14:29:36 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:29:36 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 14:29:36 INFO  Client:? - 
+
+
+12-09-2019 14:29:36 INFO  Client:? - 1. Agregar producto.
+12-09-2019 14:29:36 INFO  Client:? - 2. Consultar stock.
+12-09-2019 14:29:36 INFO  Client:? - 3. Descontar stock.
+12-09-2019 14:29:36 INFO  Client:? - 4. Salir
+12-09-2019 14:29:36 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:29:36 INFO  Client:? - Ingrese una opcion:
+12-09-2019 14:29:37 INFO  Client:? - Codigo Producto
+12-09-2019 14:29:39 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:29:39 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 14:29:39 INFO  Client:? - Codigo-Producto: WER
+12-09-2019 14:29:39 INFO  Client:? - Cantidad: 0
+12-09-2019 14:29:39 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 14:29:39 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 14:29:47 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:29:48 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 14:29:48 INFO  Client:? - 
+
+
+12-09-2019 14:29:48 INFO  Client:? - 1. Agregar producto.
+12-09-2019 14:29:48 INFO  Client:? - 2. Consultar stock.
+12-09-2019 14:29:48 INFO  Client:? - 3. Descontar stock.
+12-09-2019 14:29:48 INFO  Client:? - 4. Salir
+12-09-2019 14:29:48 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:29:48 INFO  Client:? - Ingrese una opcion:
+12-09-2019 14:29:51 INFO  Client:? - Codigo Producto
+12-09-2019 14:29:52 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:29:52 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 14:29:52 INFO  Client:? - Codigo-Producto: ERE
+12-09-2019 14:29:52 INFO  Client:? - Cantidad: 0
+12-09-2019 14:29:52 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 14:29:52 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 14:29:57 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:29:57 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 14:29:57 INFO  Client:? - 
+
+
+12-09-2019 14:29:57 INFO  Client:? - 1. Agregar producto.
+12-09-2019 14:29:57 INFO  Client:? - 2. Consultar stock.
+12-09-2019 14:29:57 INFO  Client:? - 3. Descontar stock.
+12-09-2019 14:29:57 INFO  Client:? - 4. Salir
+12-09-2019 14:29:57 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:29:57 INFO  Client:? - Ingrese una opcion:
+12-09-2019 14:29:59 INFO  Client:? - Opcion no valida. Vuelva a intentarlo.
+12-09-2019 14:30:04 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:30:04 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 14:30:04 INFO  Client:? - 
+
+
+12-09-2019 14:30:04 INFO  Client:? - 1. Agregar producto.
+12-09-2019 14:30:04 INFO  Client:? - 2. Consultar stock.
+12-09-2019 14:30:04 INFO  Client:? - 3. Descontar stock.
+12-09-2019 14:30:04 INFO  Client:? - 4. Salir
+12-09-2019 14:30:04 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:30:04 INFO  Client:? - Ingrese una opcion:
+12-09-2019 14:33:28 INFO  Client:? - Conectando con servidor remoto...
+12-09-2019 14:33:30 INFO  Client:? - Ok.
+12-09-2019 14:33:30 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:33:30 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 14:33:30 INFO  Client:? - 
+
+
+12-09-2019 14:33:30 INFO  Client:? - 1. Agregar producto.
+12-09-2019 14:33:30 INFO  Client:? - 2. Consultar stock.
+12-09-2019 14:33:30 INFO  Client:? - 3. Descontar stock.
+12-09-2019 14:33:30 INFO  Client:? - 4. Salir
+12-09-2019 14:33:30 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:33:30 INFO  Client:? - Ingrese una opcion:
+12-09-2019 14:33:33 INFO  Client:? - Codigo Producto
+12-09-2019 14:33:34 INFO  Client:? - Producto agregado con exito.
+12-09-2019 14:33:34 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 14:33:35 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:33:35 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 14:33:35 INFO  Client:? - 
+
+
+12-09-2019 14:33:35 INFO  Client:? - 1. Agregar producto.
+12-09-2019 14:33:35 INFO  Client:? - 2. Consultar stock.
+12-09-2019 14:33:35 INFO  Client:? - 3. Descontar stock.
+12-09-2019 14:33:35 INFO  Client:? - 4. Salir
+12-09-2019 14:33:35 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:33:35 INFO  Client:? - Ingrese una opcion:
+12-09-2019 14:33:37 INFO  Client:? - Codigo Producto
+12-09-2019 14:33:38 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:33:38 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 14:33:38 INFO  Client:? - Codigo-Producto: ABC
+12-09-2019 14:33:38 INFO  Client:? - Cantidad: 1
+12-09-2019 14:33:38 INFO  Client:? - 
+
+***************************************************************
+
+12-09-2019 14:33:38 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 14:33:40 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:33:40 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 14:33:40 INFO  Client:? - 
+
+
+12-09-2019 14:33:40 INFO  Client:? - 1. Agregar producto.
+12-09-2019 14:33:40 INFO  Client:? - 2. Consultar stock.
+12-09-2019 14:33:40 INFO  Client:? - 3. Descontar stock.
+12-09-2019 14:33:40 INFO  Client:? - 4. Salir
+12-09-2019 14:33:40 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:33:40 INFO  Client:? - Ingrese una opcion:
+12-09-2019 14:33:42 INFO  Client:? - Opcion no valida. Vuelva a intentarlo.
+12-09-2019 14:33:42 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 14:33:44 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:33:44 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 14:33:44 INFO  Client:? - 
+
+
+12-09-2019 14:33:44 INFO  Client:? - 1. Agregar producto.
+12-09-2019 14:33:44 INFO  Client:? - 2. Consultar stock.
+12-09-2019 14:33:44 INFO  Client:? - 3. Descontar stock.
+12-09-2019 14:33:44 INFO  Client:? - 4. Salir
+12-09-2019 14:33:44 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 14:33:44 INFO  Client:? - Ingrese una opcion:
+12-09-2019 14:33:44 INFO  Client:? - Saliendo...
+12-09-2019 15:00:04 INFO  Client:? - Conectando con servidor remoto...
+12-09-2019 15:00:06 INFO  Client:? - Ok.
+12-09-2019 15:00:06 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:00:06 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 15:00:06 INFO  Client:? - 
+
+
+12-09-2019 15:00:06 INFO  Client:? - 1. Agregar producto.
+12-09-2019 15:00:06 INFO  Client:? - 2. Consultar stock.
+12-09-2019 15:00:06 INFO  Client:? - 3. Descontar stock.
+12-09-2019 15:00:06 INFO  Client:? - 4. Salir
+12-09-2019 15:00:06 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:00:06 INFO  Client:? - Ingrese una opcion:
+12-09-2019 15:00:32 INFO  Client:? - Codigo Producto
+12-09-2019 15:00:35 INFO  Client:? - Producto agregado con exito.
+12-09-2019 15:00:35 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 15:00:37 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:00:37 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 15:00:37 INFO  Client:? - 
+
+
+12-09-2019 15:00:37 INFO  Client:? - 1. Agregar producto.
+12-09-2019 15:00:37 INFO  Client:? - 2. Consultar stock.
+12-09-2019 15:00:37 INFO  Client:? - 3. Descontar stock.
+12-09-2019 15:00:37 INFO  Client:? - 4. Salir
+12-09-2019 15:00:37 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:00:37 INFO  Client:? - Ingrese una opcion:
+12-09-2019 15:00:39 INFO  Client:? - Codigo Producto
+12-09-2019 15:00:40 INFO  Client:? - Producto agregado con exito.
+12-09-2019 15:00:40 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 15:00:41 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:00:41 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 15:00:41 INFO  Client:? - 
+
+
+12-09-2019 15:00:41 INFO  Client:? - 1. Agregar producto.
+12-09-2019 15:00:41 INFO  Client:? - 2. Consultar stock.
+12-09-2019 15:00:41 INFO  Client:? - 3. Descontar stock.
+12-09-2019 15:00:41 INFO  Client:? - 4. Salir
+12-09-2019 15:00:41 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:00:41 INFO  Client:? - Ingrese una opcion:
+12-09-2019 15:00:42 INFO  Client:? - Codigo Producto
+12-09-2019 15:00:44 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:00:44 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 15:00:44 INFO  Client:? - Codigo-Producto: ABC
+12-09-2019 15:00:44 INFO  Client:? - Cantidad: 2
+12-09-2019 15:00:44 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:00:44 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 15:00:49 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:00:49 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 15:00:49 INFO  Client:? - 
+
+
+12-09-2019 15:00:49 INFO  Client:? - 1. Agregar producto.
+12-09-2019 15:00:49 INFO  Client:? - 2. Consultar stock.
+12-09-2019 15:00:49 INFO  Client:? - 3. Descontar stock.
+12-09-2019 15:00:49 INFO  Client:? - 4. Salir
+12-09-2019 15:00:49 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:00:49 INFO  Client:? - Ingrese una opcion:
+12-09-2019 15:00:50 INFO  Client:? - Codigo Producto
+12-09-2019 15:00:51 INFO  Client:? - Producto descontado del stock con exito.
+12-09-2019 15:00:51 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 15:00:56 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:00:56 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 15:00:56 INFO  Client:? - 
+
+
+12-09-2019 15:00:56 INFO  Client:? - 1. Agregar producto.
+12-09-2019 15:00:56 INFO  Client:? - 2. Consultar stock.
+12-09-2019 15:00:56 INFO  Client:? - 3. Descontar stock.
+12-09-2019 15:00:56 INFO  Client:? - 4. Salir
+12-09-2019 15:00:56 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:00:56 INFO  Client:? - Ingrese una opcion:
+12-09-2019 15:00:59 INFO  Client:? - Codigo Producto
+12-09-2019 15:01:00 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:01:00 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 15:01:00 INFO  Client:? - Codigo-Producto: ABC
+12-09-2019 15:01:00 INFO  Client:? - Cantidad: 1
+12-09-2019 15:01:00 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:01:00 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 15:01:02 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:01:02 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 15:01:02 INFO  Client:? - 
+
+
+12-09-2019 15:01:02 INFO  Client:? - 1. Agregar producto.
+12-09-2019 15:01:02 INFO  Client:? - 2. Consultar stock.
+12-09-2019 15:01:02 INFO  Client:? - 3. Descontar stock.
+12-09-2019 15:01:02 INFO  Client:? - 4. Salir
+12-09-2019 15:01:02 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:01:02 INFO  Client:? - Ingrese una opcion:
+12-09-2019 15:01:03 INFO  Client:? - Codigo Producto
+12-09-2019 15:01:04 INFO  Client:? - Producto descontado del stock con exito.
+12-09-2019 15:01:04 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 15:01:05 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:01:05 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 15:01:05 INFO  Client:? - 
+
+
+12-09-2019 15:01:05 INFO  Client:? - 1. Agregar producto.
+12-09-2019 15:01:05 INFO  Client:? - 2. Consultar stock.
+12-09-2019 15:01:05 INFO  Client:? - 3. Descontar stock.
+12-09-2019 15:01:05 INFO  Client:? - 4. Salir
+12-09-2019 15:01:05 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:01:05 INFO  Client:? - Ingrese una opcion:
+12-09-2019 15:01:06 INFO  Client:? - Codigo Producto
+12-09-2019 15:01:07 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:01:07 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 15:01:07 INFO  Client:? - Codigo-Producto: ABC
+12-09-2019 15:01:07 INFO  Client:? - Cantidad: 0
+12-09-2019 15:01:07 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:01:07 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 15:01:08 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:01:08 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 15:01:08 INFO  Client:? - 
+
+
+12-09-2019 15:01:08 INFO  Client:? - 1. Agregar producto.
+12-09-2019 15:01:08 INFO  Client:? - 2. Consultar stock.
+12-09-2019 15:01:08 INFO  Client:? - 3. Descontar stock.
+12-09-2019 15:01:08 INFO  Client:? - 4. Salir
+12-09-2019 15:01:08 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:01:08 INFO  Client:? - Ingrese una opcion:
+12-09-2019 15:01:09 INFO  Client:? - Codigo Producto
+12-09-2019 15:01:10 INFO  Client:? - No se pudo descontar el stock.
+12-09-2019 15:01:10 INFO  Client:? - El producto no existe o posee stock 0.
+12-09-2019 15:01:10 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 15:01:11 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:01:11 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 15:01:11 INFO  Client:? - 
+
+
+12-09-2019 15:01:11 INFO  Client:? - 1. Agregar producto.
+12-09-2019 15:01:11 INFO  Client:? - 2. Consultar stock.
+12-09-2019 15:01:11 INFO  Client:? - 3. Descontar stock.
+12-09-2019 15:01:11 INFO  Client:? - 4. Salir
+12-09-2019 15:01:11 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:01:11 INFO  Client:? - Ingrese una opcion:
+12-09-2019 15:01:13 INFO  Client:? - Saliendo...
+12-09-2019 15:01:52 INFO  Client:? - Conectando con servidor remoto...
+12-09-2019 15:01:53 INFO  Client:? - Ok.
+12-09-2019 15:01:54 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:01:54 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 15:01:54 INFO  Client:? - 
+
+
+12-09-2019 15:01:54 INFO  Client:? - 1. Agregar producto.
+12-09-2019 15:01:54 INFO  Client:? - 2. Consultar stock.
+12-09-2019 15:01:54 INFO  Client:? - 3. Descontar stock.
+12-09-2019 15:01:54 INFO  Client:? - 4. Salir
+12-09-2019 15:01:54 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:01:54 INFO  Client:? - Ingrese una opcion:
+12-09-2019 15:02:04 INFO  Client:? - Ingrese el codigo del producto:
+12-09-2019 15:02:06 INFO  Client:? - Producto agregado con exito.
+12-09-2019 15:02:06 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 15:02:08 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:02:08 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 15:02:08 INFO  Client:? - 
+
+
+12-09-2019 15:02:08 INFO  Client:? - 1. Agregar producto.
+12-09-2019 15:02:08 INFO  Client:? - 2. Consultar stock.
+12-09-2019 15:02:08 INFO  Client:? - 3. Descontar stock.
+12-09-2019 15:02:08 INFO  Client:? - 4. Salir
+12-09-2019 15:02:08 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:02:08 INFO  Client:? - Ingrese una opcion:
+12-09-2019 15:02:10 INFO  Client:? - Ingrese el codigo del producto:
+12-09-2019 15:02:11 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:02:11 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 15:02:11 INFO  Client:? - Codigo-Producto: ABC
+12-09-2019 15:02:11 INFO  Client:? - Cantidad: 1
+12-09-2019 15:02:11 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:02:12 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 15:02:14 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:02:14 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 15:02:14 INFO  Client:? - 
+
+
+12-09-2019 15:02:14 INFO  Client:? - 1. Agregar producto.
+12-09-2019 15:02:14 INFO  Client:? - 2. Consultar stock.
+12-09-2019 15:02:14 INFO  Client:? - 3. Descontar stock.
+12-09-2019 15:02:14 INFO  Client:? - 4. Salir
+12-09-2019 15:02:14 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:02:14 INFO  Client:? - Ingrese una opcion:
+12-09-2019 15:02:16 INFO  Client:? - Ingrese el codigo del producto:
+12-09-2019 15:02:17 INFO  Client:? - Producto descontado del stock con exito.
+12-09-2019 15:02:17 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 15:02:19 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:02:19 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 15:02:19 INFO  Client:? - 
+
+
+12-09-2019 15:02:19 INFO  Client:? - 1. Agregar producto.
+12-09-2019 15:02:19 INFO  Client:? - 2. Consultar stock.
+12-09-2019 15:02:19 INFO  Client:? - 3. Descontar stock.
+12-09-2019 15:02:19 INFO  Client:? - 4. Salir
+12-09-2019 15:02:19 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:02:19 INFO  Client:? - Ingrese una opcion:
+12-09-2019 15:02:20 INFO  Client:? - Ingrese el codigo del producto:
+12-09-2019 15:02:21 INFO  Client:? - No se pudo descontar el stock.
+12-09-2019 15:02:21 INFO  Client:? - El producto no existe o posee stock 0.
+12-09-2019 15:02:21 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 15:02:23 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:02:23 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 15:02:23 INFO  Client:? - 
+
+
+12-09-2019 15:02:23 INFO  Client:? - 1. Agregar producto.
+12-09-2019 15:02:23 INFO  Client:? - 2. Consultar stock.
+12-09-2019 15:02:23 INFO  Client:? - 3. Descontar stock.
+12-09-2019 15:02:23 INFO  Client:? - 4. Salir
+12-09-2019 15:02:23 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:02:23 INFO  Client:? - Ingrese una opcion:
+12-09-2019 15:02:24 INFO  Client:? - Ingrese el codigo del producto:
+12-09-2019 15:02:26 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:02:26 INFO  Client:? - STOCK ACTUAL
+
+12-09-2019 15:02:26 INFO  Client:? - Codigo-Producto: DFS
+12-09-2019 15:02:26 INFO  Client:? - El producto solicitado no esta registrado.
+12-09-2019 15:02:26 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:02:26 INFO  Client:? - Presione cualquier tecla para continuar...
+12-09-2019 15:02:43 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:02:43 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 15:02:43 INFO  Client:? - 
+
+
+12-09-2019 15:02:43 INFO  Client:? - 1. Agregar producto.
+12-09-2019 15:02:43 INFO  Client:? - 2. Consultar stock.
+12-09-2019 15:02:43 INFO  Client:? - 3. Descontar stock.
+12-09-2019 15:02:43 INFO  Client:? - 4. Salir
+12-09-2019 15:02:43 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:02:43 INFO  Client:? - Ingrese una opcion:
+12-09-2019 15:02:45 INFO  Client:? - Saliendo...
+12-09-2019 15:03:22 INFO  Client:? - Conectando con servidor remoto...
+12-09-2019 15:03:23 INFO  Client:? - Ok.
+12-09-2019 15:03:23 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:03:23 INFO  Client:? - GESTOR BASICO DE STOCK
+12-09-2019 15:03:23 INFO  Client:? - 
+
+
+12-09-2019 15:03:23 INFO  Client:? - 1. Agregar producto.
+12-09-2019 15:03:23 INFO  Client:? - 2. Consultar stock.
+12-09-2019 15:03:23 INFO  Client:? - 3. Descontar stock.
+12-09-2019 15:03:23 INFO  Client:? - 4. Salir
+12-09-2019 15:03:23 INFO  Client:? - 
+
+****************************************************************
+
+12-09-2019 15:03:23 INFO  Client:? - Ingrese una opcion:
+12-09-2019 15:04:01 INFO  Client:? - Saliendo...

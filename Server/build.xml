@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Server" basedir=".">
+
+	<!-- Properties -->
+	<property name="src.dir"		value="src" />
+	<property name="build.dir"		value="bin" />
+	<property name="jar.dir"		value="jar" />
+	<property name="lib.dir"		value="lib" />
+	<property name="class-name"		value="Server" />
+	
+	<!-- Paths -->
+	<path id="lib">
+		<fileset dir="${lib.dir}" includes="**/*.jar" />
+	</path>
+	
+	<path id="jar">
+		<fileset dir="${jar.dir}" includes="**/*.jar" />
+	</path>
+
+	<!-- Targets -->
+	<target name="delete">
+		<delete dir="${build.dir}" />
+		<delete dir="${jar.dir}" />
+	</target>
+	
+	<target name="init" depends="delete">
+		<mkdir dir="${build.dir}" />
+		<mkdir dir="${jar.dir}" />
+	</target>
+	
+	<target name="compile" depends="init">
+		<echo>Compiling...</echo>
+		<javac srcdir="${src.dir}" destdir="${build.dir}" classpathref="lib" 
+		includeantruntime="false" />
+	</target>
+	
+	<target name="jar" depends="compile">
+		<jar destfile="${jar.dir}/${class-name}.jar" basedir="${build.dir}">
+			<manifest>
+				<attribute name="Main-class" value="${class-name}" />
+			</manifest>
+		</jar>
+	</target>
+	
+	<target name="run" depends="jar">
+		<echo>Running...</echo>
+		<java classname="${class-name}" fork="true">
+			<classpath>
+				<path refid="jar" />
+				<path location="${jar.dir}/${class-name}.jar" />
+			</classpath>
+			<classpath>
+				<path refid="lib" />
+				<path location="${lib.dir}/StockRMI.jar" />
+			</classpath>
+		</java>
+	</target>
+
+</project>

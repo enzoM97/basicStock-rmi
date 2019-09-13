@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="RemoteInterface" basedir=".">
+
+	<property name="src.dir"			value="src" />
+	<property name="build.dir"			value="bin" />
+	<property name="jar.dir"			value="jar" />
+	<property name="stock-interface"	value="StockRMI" />
+
+	<target name="delete">
+		<delete dir="${build.dir}" />
+		<delete dir="${jar.dir}" />
+	</target>
+	
+	<target name="init" depends="delete">
+		<mkdir dir="${build.dir}" />
+		<mkdir dir="${jar.dir}" />
+	</target>
+	
+	<target name="compile" depends="init">
+		<echo>Compiling...</echo>
+		<javac srcdir="${src.dir}" destdir="${build.dir}" includeantruntime="false" />
+	</target>
+	
+	<target name="jar" depends="compile">
+		<jar destfile="${jar.dir}/${stock-interface}.jar" basedir="bin">
+			<manifest>
+				<attribute name="RemoteInterface" value="${stock-interface}" />
+			</manifest>
+		</jar>
+	</target>
+
+</project>
